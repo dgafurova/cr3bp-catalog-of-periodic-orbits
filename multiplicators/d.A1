@@ -1,0 +1,3141 @@
+
+ Starting direction of the free parameter(s) : 
+ PAR(  1) : -0.000000000000E+00
+ PAR( 11) :  0.000000000000E+00
+  14     1         Multipliers:     Stable:   5
+  14     1         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     1         Multiplier  2    9.99628E-01   2.72604E-02  Abs. Val.   1.00000E+00
+  14     1         Multiplier  3    9.99628E-01  -2.72604E-02  Abs. Val.   1.00000E+00
+  14     1         Multiplier  4    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     1         Multiplier  5    2.95333E-03   0.00000E+00  Abs. Val.   2.95333E-03
+  14     1         Multiplier  6    3.38601E+02   0.00000E+00  Abs. Val.   3.38601E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     1        0   7.29387E-10   0.00000E+00   1.00007E+00   1.65958E-02   0.00000E+00   4.11627E+00  -1.50012E+00   3.38601E+02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     2   0        7.29387E-10   9.96048E-01
+  14     2   1       -4.22000E-04   1.00023E+00
+  14     2   2       -2.94245E-03   9.99786E-01
+  14     2   3       -7.82078E-04   1.00011E+00
+  14     2   4        8.57371E-03   1.00026E+00
+  14     2   5        1.55368E-03   1.00039E+00
+
+  14     1         Iterations   :   5
+  14     1         Next Step    :   2.50000E-02
+  14     1 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     2   0        7.29387E-10   9.95106E-01
+  14     2   1       -1.71494E-04   9.98022E-01
+  14     2   2       -3.51715E-04   9.97607E-01
+  14     2   3       -2.97433E-04   9.97329E-01
+  14     2   4       -3.26260E-05   9.97300E-01
+  14     2   5        4.38899E-05   9.97280E-01
+
+  14     1         Iterations   :   5
+  14     1         Next Step    :   1.25000E-02
+  14     1 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     2   0        7.29387E-10   9.94871E-01
+  14     2   1        5.96670E-05   9.95859E-01
+  14     2   2       -1.77144E-05   9.95302E-01
+  14     2   3       -2.31705E-05   9.95073E-01
+  14     2   4       -4.55766E-06   9.95050E-01
+  14     2   5       -5.18715E-07   9.95045E-01
+
+  14     1         Iterations   :   5
+  14     1         Next Step    :   6.25000E-03
+  14     1 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     2   0        7.29387E-10   9.94812E-01
+  14     2   1        1.23979E-06   9.94973E-01
+  14     2   2       -6.32314E-09   9.94853E-01
+  14     2   3       -5.09713E-10   9.94850E-01
+  14     2   4        3.38395E-10   9.94850E-01
+  14     2   5        3.46030E-10   9.94850E-01
+
+  14     2         BP   Function   -3.62324E-01
+  14     2         Multipliers:     Stable:   4
+  14     2         Multiplier  1    1.00017E+00   0.00000E+00  Abs. Val.   1.00017E+00
+  14     2         Multiplier  2    9.85763E-01   0.00000E+00  Abs. Val.   9.85763E-01
+  14     2         Multiplier  3    6.72124E-01   0.00000E+00  Abs. Val.   6.72124E-01
+  14     2         Multiplier  4    1.51660E+00   0.00000E+00  Abs. Val.   1.51660E+00
+  14     2         Multiplier  5    2.64236E-03   0.00000E+00  Abs. Val.   2.64236E-03
+  14     2         Multiplier  6    3.35966E+02   0.00000E+00  Abs. Val.   3.35966E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     2        1   3.46030E-10   3.25889E-03   9.99912E-01   1.59647E-02   4.41094E-03   4.12413E+00  -1.50012E+00   0.00000E+00
+
+  14     2         Iterations   :   5
+  14     2         Next Step    :   3.12500E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     3   0        1.57816E-10   9.94894E-01
+  14     3   1       -9.00653E-11   9.94976E-01
+  14     3   2        1.49598E-10   9.94922E-01
+  14     3   3        1.60410E-10   9.94921E-01
+  14     3   4        1.60438E-10   9.94921E-01
+  14     3   5        1.60281E-10   9.94921E-01
+
+  14     3         BP   Function   -4.83638E-01
+  14     3         Multipliers:     Stable:   4
+  14     3         Multiplier  1    1.00001E+00   0.00000E+00  Abs. Val.   1.00001E+00
+  14     3         Multiplier  2    9.96986E-01   0.00000E+00  Abs. Val.   9.96986E-01
+  14     3         Multiplier  3    6.66407E-01   0.00000E+00  Abs. Val.   6.66407E-01
+  14     3         Multiplier  4    1.50521E+00   0.00000E+00  Abs. Val.   1.50521E+00
+  14     3         Multiplier  5    2.82232E-03   0.00000E+00  Abs. Val.   2.82232E-03
+  14     3         Multiplier  6    3.36079E+02   0.00000E+00  Abs. Val.   3.36079E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     3        0   1.60281E-10   4.81181E-03   9.99726E-01   1.51809E-02   6.51868E-03   4.13443E+00  -1.50011E+00   0.00000E+00
+
+  14     3         Iterations   :   5
+  14     3         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     4   0        7.10124E-11   9.94959E-01
+  14     4   1       -6.72019E-11   9.94964E-01
+  14     4   2        1.76701E-11   9.94963E-01
+  14     4   3        1.76844E-11   9.94963E-01
+
+  14     4         BP   Function   -5.36427E-01
+  14     4         Multipliers:     Stable:   4
+  14     4         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     4         Multiplier  2    9.99995E-01   0.00000E+00  Abs. Val.   9.99995E-01
+  14     4         Multiplier  3    6.38631E-01   0.00000E+00  Abs. Val.   6.38631E-01
+  14     4         Multiplier  4    1.56585E+00   0.00000E+00  Abs. Val.   1.56585E+00
+  14     4         Multiplier  5    2.76517E-03   0.00000E+00  Abs. Val.   2.76517E-03
+  14     4         Multiplier  6    3.61575E+02   0.00000E+00  Abs. Val.   3.61575E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     4        2   1.76844E-11   5.52366E-03   9.99614E-01   1.47084E-02   7.48796E-03   4.14058E+00  -1.50011E+00   0.00000E+00
+
+  14     4         Iterations   :   3
+  14     4         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     5   0       -1.23608E-10   9.95006E-01
+  14     5   1        5.10878E-11   9.95008E-01
+  14     5   2        1.33230E-11   9.95008E-01
+  14     5   3        1.34487E-11   9.95008E-01
+
+  14     5         BP   Function   -5.57298E-01
+  14     5         Multipliers:     Stable:   4
+  14     5         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     5         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     5         Multiplier  3    6.18139E-01   0.00000E+00  Abs. Val.   6.18139E-01
+  14     5         Multiplier  4    1.61776E+00   0.00000E+00  Abs. Val.   1.61776E+00
+  14     5         Multiplier  5    2.72027E-03   0.00000E+00  Abs. Val.   2.72027E-03
+  14     5         Multiplier  6    3.67607E+02   0.00000E+00  Abs. Val.   3.67607E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     5        0   1.34487E-11   6.20079E-03   9.99491E-01   1.41717E-02   8.41236E-03   4.14731E+00  -1.50010E+00   0.00000E+00
+
+  14     5         Iterations   :   3
+  14     5         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     6   0        9.22855E-12   9.95055E-01
+  14     6   1        1.00576E-11   9.95056E-01
+  14     6   2        9.95137E-12   9.95056E-01
+  14     6   3        1.00554E-11   9.95056E-01
+
+  14     6         BP   Function   -5.60397E-01
+  14     6         Multipliers:     Stable:   4
+  14     6         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     6         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     6         Multiplier  3    6.04039E-01   0.00000E+00  Abs. Val.   6.04039E-01
+  14     6         Multiplier  4    1.65552E+00   0.00000E+00  Abs. Val.   1.65552E+00
+  14     6         Multiplier  5    2.67423E-03   0.00000E+00  Abs. Val.   2.67423E-03
+  14     6         Multiplier  6    3.73937E+02   0.00000E+00  Abs. Val.   3.73937E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     6        3   1.00554E-11   6.84423E-03   9.99357E-01   1.35736E-02   9.29217E-03   4.15453E+00  -1.50010E+00   0.00000E+00
+
+  14     6         Iterations   :   3
+  14     6         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     7   0        6.67394E-12   9.95106E-01
+  14     7   1        9.25226E-11   9.95106E-01
+  14     7   2        9.47706E-12   9.95105E-01
+  14     7   3        9.43183E-12   9.95105E-01
+
+  14     7         BP   Function   -5.51490E-01
+  14     7         Multipliers:     Stable:   4
+  14     7         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     7         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     7         Multiplier  3    5.95988E-01   0.00000E+00  Abs. Val.   5.95988E-01
+  14     7         Multiplier  4    1.67789E+00   0.00000E+00  Abs. Val.   1.67789E+00
+  14     7         Multiplier  5    2.62803E-03   0.00000E+00  Abs. Val.   2.62803E-03
+  14     7         Multiplier  6    3.80512E+02   0.00000E+00  Abs. Val.   3.80512E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     7        0   9.43183E-12   7.45158E-03   9.99215E-01   1.29388E-02   1.01243E-02   4.16211E+00  -1.50009E+00   0.00000E+00
+
+  14     7         Iterations   :   3
+  14     7         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     8   0        8.81029E-12   9.95157E-01
+  14     8   1       -5.96751E-11   9.95156E-01
+  14     8   2        8.42758E-12   9.95156E-01
+  14     8   3        8.42046E-12   9.95156E-01
+
+  14     8         BP   Function   -5.32522E-01
+  14     8         Multipliers:     Stable:   4
+  14     8         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     8         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     8         Multiplier  3    5.93709E-01   0.00000E+00  Abs. Val.   5.93709E-01
+  14     8         Multiplier  4    1.68433E+00   0.00000E+00  Abs. Val.   1.68433E+00
+  14     8         Multiplier  5    2.58254E-03   0.00000E+00  Abs. Val.   2.58254E-03
+  14     8         Multiplier  6    3.87215E+02   0.00000E+00  Abs. Val.   3.87215E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     8        4   8.42046E-12   8.02073E-03   9.99067E-01   1.22445E-02   1.09049E-02   4.16991E+00  -1.50009E+00   0.00000E+00
+
+  14     8         Iterations   :   3
+  14     8         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14     9   0        7.41227E-12   9.95209E-01
+  14     9   1        8.01987E-12   9.95207E-01
+  14     9   2        8.07242E-12   9.95206E-01
+  14     9   3        8.03033E-12   9.95206E-01
+
+  14     9         BP   Function   -5.05368E-01
+  14     9         Multipliers:     Stable:   4
+  14     9         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     9         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14     9         Multiplier  3    5.96993E-01   0.00000E+00  Abs. Val.   5.96993E-01
+  14     9         Multiplier  4    1.67506E+00   0.00000E+00  Abs. Val.   1.67506E+00
+  14     9         Multiplier  5    2.53851E-03   0.00000E+00  Abs. Val.   2.53851E-03
+  14     9         Multiplier  6    3.93931E+02   0.00000E+00  Abs. Val.   3.93931E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14     9        0   8.03033E-12   8.54995E-03   9.98915E-01   1.15173E-02   1.16305E-02   4.17781E+00  -1.50008E+00   0.00000E+00
+
+  14     9         Iterations   :   3
+  14     9         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    10   0        7.64136E-12   9.95259E-01
+  14    10   1        1.76911E-11   9.95256E-01
+  14    10   2        8.75900E-12   9.95256E-01
+  14    10   3        8.69595E-12   9.95256E-01
+
+  14    10         BP   Function   -4.71744E-01
+  14    10         Multipliers:     Stable:   4
+  14    10         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    10         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    10         Multiplier  3    6.05705E-01   0.00000E+00  Abs. Val.   6.05705E-01
+  14    10         Multiplier  4    1.65097E+00   0.00000E+00  Abs. Val.   1.65097E+00
+  14    10         Multiplier  5    2.49659E-03   0.00000E+00  Abs. Val.   2.49659E-03
+  14    10         Multiplier  6    4.00547E+02   0.00000E+00  Abs. Val.   4.00547E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    10        5   8.69595E-12   9.03773E-03   9.98762E-01   1.07488E-02   1.23045E-02   4.18565E+00  -1.50008E+00   0.00000E+00
+
+  14    10         Iterations   :   3
+  14    10         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    11   0        9.35969E-12   9.95308E-01
+  14    11   1       -1.03546E-12   9.95304E-01
+  14    11   2        7.24877E-12   9.95304E-01
+  14    11   3        7.33015E-12   9.95304E-01
+
+  14    11         BP   Function   -4.33156E-01
+  14    11         Multipliers:     Stable:   4
+  14    11         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    11         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    11         Multiplier  3    6.19775E-01   0.00000E+00  Abs. Val.   6.19775E-01
+  14    11         Multiplier  4    1.61349E+00   0.00000E+00  Abs. Val.   1.61349E+00
+  14    11         Multiplier  5    2.45730E-03   0.00000E+00  Abs. Val.   2.45730E-03
+  14    11         Multiplier  6    4.06951E+02   0.00000E+00  Abs. Val.   4.06951E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    11        0   7.33015E-12   9.48286E-03   9.98610E-01   9.94639E-03   1.29219E-02   4.19330E+00  -1.50007E+00   0.00000E+00
+
+  14    11         Iterations   :   3
+  14    11         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    12   0        5.96802E-12   9.95354E-01
+  14    12   1        6.85812E-12   9.95349E-01
+  14    12   2        6.96778E-12   9.95349E-01
+  14    12   3        6.96216E-12   9.95349E-01
+
+  14    12         BP   Function   -3.90882E-01
+  14    12         Multipliers:     Stable:   4
+  14    12         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    12         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    12         Multiplier  3    6.39187E-01   0.00000E+00  Abs. Val.   6.39187E-01
+  14    12         Multiplier  4    1.56449E+00   0.00000E+00  Abs. Val.   1.56449E+00
+  14    12         Multiplier  5    2.42110E-03   0.00000E+00  Abs. Val.   2.42110E-03
+  14    12         Multiplier  6    4.13036E+02   0.00000E+00  Abs. Val.   4.13036E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    12        6   6.96216E-12   9.88428E-03   9.98462E-01   9.11989E-03   1.34802E-02   4.20062E+00  -1.50007E+00   0.00000E+00
+
+  14    12         Iterations   :   3
+  14    12         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    13   0        6.59511E-12   9.95397E-01
+  14    13   1        4.51606E-13   9.95391E-01
+  14    13   2        5.07062E-12   9.95391E-01
+  14    13   3        5.13001E-12   9.95391E-01
+
+  14    13         BP   Function   -3.45976E-01
+  14    13         Multipliers:     Stable:   4
+  14    13         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    13         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    13         Multiplier  3    6.63970E-01   0.00000E+00  Abs. Val.   6.63970E-01
+  14    13         Multiplier  4    1.50609E+00   0.00000E+00  Abs. Val.   1.50609E+00
+  14    13         Multiplier  5    2.38834E-03   0.00000E+00  Abs. Val.   2.38834E-03
+  14    13         Multiplier  6    4.18700E+02   0.00000E+00  Abs. Val.   4.18700E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    13        0   5.13001E-12   1.02412E-02   9.98322E-01   8.27584E-03   1.39726E-02   4.20747E+00  -1.50007E+00   0.00000E+00
+
+  14    13         Iterations   :   3
+  14    13         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    14   0        3.30235E-12   9.95435E-01
+  14    14   1        9.28685E-12   9.95429E-01
+  14    14   2        4.77943E-12   9.95429E-01
+  14    14   3        4.80527E-12   9.95429E-01
+
+  14    14         BP   Function   -2.99278E-01
+  14    14         Multipliers:     Stable:   4
+  14    14         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    14         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    14         Multiplier  3    6.94177E-01   0.00000E+00  Abs. Val.   6.94177E-01
+  14    14         Multiplier  4    1.44056E+00   0.00000E+00  Abs. Val.   1.44056E+00
+  14    14         Multiplier  5    2.35934E-03   0.00000E+00  Abs. Val.   2.35934E-03
+  14    14         Multiplier  6    4.23848E+02   0.00000E+00  Abs. Val.   4.23848E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    14        7   4.80527E-12   1.05528E-02   9.98191E-01   7.41585E-03   1.44098E-02   4.21373E+00  -1.50006E+00   0.00000E+00
+
+  14    14         Iterations   :   3
+  14    14         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    15   0        4.48129E-12   9.95469E-01
+  14    15   1        4.91526E-12   9.95462E-01
+  14    15   2        4.94297E-12   9.95462E-01
+  14    15   3        4.96712E-12   9.95462E-01
+
+  14    15         BP   Function   -2.51442E-01
+  14    15         Multipliers:     Stable:   4
+  14    15         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    15         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    15         Multiplier  3    7.29866E-01   0.00000E+00  Abs. Val.   7.29866E-01
+  14    15         Multiplier  4    1.37012E+00   0.00000E+00  Abs. Val.   1.37012E+00
+  14    15         Multiplier  5    2.33432E-03   0.00000E+00  Abs. Val.   2.33432E-03
+  14    15         Multiplier  6    4.28391E+02   0.00000E+00  Abs. Val.   4.28391E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    15        0   4.96712E-12   1.08185E-02   9.98074E-01   6.54941E-03   1.47807E-02   4.21927E+00  -1.50006E+00   0.00000E+00
+
+  14    15         Iterations   :   3
+  14    15         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    16   0        5.12860E-12   9.95498E-01
+  14    16   1        4.43164E-12   9.95490E-01
+  14    16   2        6.50497E-12   9.95490E-01
+  14    16   3        6.51999E-12   9.95490E-01
+
+  14    16         BP   Function   -2.02954E-01
+  14    16         Multipliers:     Stable:   4
+  14    16         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    16         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    16         Multiplier  3    7.71077E-01   0.00000E+00  Abs. Val.   7.71077E-01
+  14    16         Multiplier  4    1.29689E+00   0.00000E+00  Abs. Val.   1.29689E+00
+  14    16         Multiplier  5    2.31347E-03   0.00000E+00  Abs. Val.   2.31347E-03
+  14    16         Multiplier  6    4.32250E+02   0.00000E+00  Abs. Val.   4.32250E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    16        8   6.51999E-12   1.10380E-02   9.97972E-01   5.68461E-03   1.50875E-02   4.22400E+00  -1.50006E+00   0.00000E+00
+
+  14    16         Iterations   :   3
+  14    16         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    17   0        8.06947E-12   9.95521E-01
+  14    17   1        8.23459E-12   9.95513E-01
+  14    17   2        5.89589E-12   9.95513E-01
+  14    17   3        5.87863E-12   9.95513E-01
+
+  14    17         BP   Function   -1.54156E-01
+  14    17         Multipliers:     Stable:   4
+  14    17         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    17         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    17         Multiplier  3    8.17804E-01   0.00000E+00  Abs. Val.   8.17804E-01
+  14    17         Multiplier  4    1.22279E+00   0.00000E+00  Abs. Val.   1.22279E+00
+  14    17         Multiplier  5    2.29695E-03   0.00000E+00  Abs. Val.   2.29695E-03
+  14    17         Multiplier  6    4.35359E+02   0.00000E+00  Abs. Val.   4.35359E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    17        0   5.87863E-12   1.12107E-02   9.97887E-01   4.82849E-03   1.53287E-02   4.22782E+00  -1.50005E+00   0.00000E+00
+
+  14    17         Iterations   :   3
+  14    17         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    18   0        5.23862E-12   9.95538E-01
+  14    18   1        5.67632E-12   9.95530E-01
+  14    18   2        5.67354E-12   9.95529E-01
+  14    18   3        5.68197E-12   9.95529E-01
+
+  14    18         BP   Function   -1.05277E-01
+  14    18         Multipliers:     Stable:   4
+  14    18         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    18         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    18         Multiplier  3    8.69963E-01   0.00000E+00  Abs. Val.   8.69963E-01
+  14    18         Multiplier  4    1.14947E+00   0.00000E+00  Abs. Val.   1.14947E+00
+  14    18         Multiplier  5    2.28487E-03   0.00000E+00  Abs. Val.   2.28487E-03
+  14    18         Multiplier  6    4.37662E+02   0.00000E+00  Abs. Val.   4.37662E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    18        9   5.68197E-12   1.13365E-02   9.97827E-01   3.99630E-03   1.55004E-02   4.23066E+00  -1.50005E+00   0.00000E+00
+
+  14    18         Iterations   :   3
+  14    18         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    19   0        5.48572E-12   9.95548E-01
+  14    19   1        5.19446E-12   9.95541E-01
+  14    19   2        5.82665E-12   9.95540E-01
+  14    19   3        5.85065E-12   9.95540E-01
+  14    19   4        5.83258E-12   9.95540E-01
+
+  14    19         BP   Function   -5.64555E-02
+  14    19         Multipliers:     Stable:   4
+  14    19         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    19         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    19         Multiplier  3    9.27353E-01   0.00000E+00  Abs. Val.   9.27353E-01
+  14    19         Multiplier  4    1.07834E+00   0.00000E+00  Abs. Val.   1.07834E+00
+  14    19         Multiplier  5    2.27729E-03   0.00000E+00  Abs. Val.   2.27729E-03
+  14    19         Multiplier  6    4.39118E+02   0.00000E+00  Abs. Val.   4.39118E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    19        0   5.83258E-12   1.14150E-02   9.97786E-01   3.19330E-03   1.56135E-02   4.23245E+00  -1.50005E+00   0.00000E+00
+
+  14    19         Iterations   :   4
+  14    19         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    20   0        5.98288E-12   9.95553E-01
+  14    20   1        6.91269E-12   9.95551E-01
+  14    20   2        6.11212E-12   9.95544E-01
+  14    20   3        6.09183E-12   9.95544E-01
+  14    20   4        6.09502E-12   9.95544E-01
+
+  14    20         BP   Function   -7.76850E-03
+  14    20         Multipliers:     Stable:   4
+  14    20         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    20         Multiplier  2    9.99906E-01   0.00000E+00  Abs. Val.   9.99906E-01
+  14    20         Multiplier  3    9.88802E-01   0.00000E+00  Abs. Val.   9.88802E-01
+  14    20         Multiplier  4    1.01142E+00   0.00000E+00  Abs. Val.   1.01142E+00
+  14    20         Multiplier  5    2.27432E-03   0.00000E+00  Abs. Val.   2.27432E-03
+  14    20         Multiplier  6    4.39695E+02   0.00000E+00  Abs. Val.   4.39695E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    20       10   6.09502E-12   1.14463E-02   9.97771E-01   2.43464E-03   1.56564E-02   4.23317E+00  -1.50005E+00   0.00000E+00
+
+  14    20         Iterations   :   4
+  14    20         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    21   0        6.35692E-12   9.95551E-01
+  14    21   1        6.49755E-12   9.95540E-01
+  14    21   2        6.56525E-12   9.95542E-01
+  14    21   3        6.55949E-12   9.95542E-01
+  14    21   4        6.56276E-12   9.95542E-01
+
+  14    21         BP   Function    4.07418E-02
+ ==> Location of special point :  Iteration   0  Step size =  -1.31228E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    21   0        6.17072E-12   9.95544E-01
+  14    21   1        6.17301E-12   9.95545E-01
+  14    21   2        6.17477E-12   9.95544E-01
+  14    21   3        6.14163E-12   9.95544E-01
+  14    21   4        6.14999E-12   9.95544E-01
+
+  14    21         BP   Function    9.78932E-05
+ ==> Location of special point :  Convergence.   Step size =  -3.12118E-06
+  14    21         Multipliers:     Stable:   4
+  14    21         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    21         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    21         Multiplier  3    9.97098E-01   0.00000E+00  Abs. Val.   9.97098E-01
+  14    21         Multiplier  4    1.00291E+00   0.00000E+00  Abs. Val.   1.00291E+00
+  14    21         Multiplier  5    2.27423E-03   0.00000E+00  Abs. Val.   2.27423E-03
+  14    21         Multiplier  6    4.39710E+02   0.00000E+00  Abs. Val.   4.39710E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    21  BP   11   6.14999E-12   1.14469E-02   9.97771E-01   2.31970E-03   1.56581E-02   4.23318E+00  -1.50005E+00   0.00000E+00
+
+  14    21         Iterations   :   4
+  14    21         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    22   0        6.64146E-12   9.95542E-01
+  14    22   1        6.55888E-12   9.95541E-01
+  14    22   2        6.61908E-12   9.95541E-01
+  14    22   3        6.62193E-12   9.95541E-01
+
+  14    22         BP   Function    4.86663E-02
+  14    22         Multipliers:     Stable:   4
+  14    22         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    22         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    22         Multiplier  3    9.36992E-01   0.00000E+00  Abs. Val.   9.36992E-01
+  14    22         Multiplier  4    1.06724E+00   0.00000E+00  Abs. Val.   1.06724E+00
+  14    22         Multiplier  5    2.27650E-03   0.00000E+00  Abs. Val.   2.27650E-03
+  14    22         Multiplier  6    4.39270E+02   0.00000E+00  Abs. Val.   4.39270E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    22       12   6.62193E-12   1.14232E-02   9.97783E-01   3.06948E-03   1.56247E-02   4.23264E+00  -1.50005E+00   0.00000E+00
+
+  14    22         Iterations   :   3
+  14    22         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    23   0        7.09386E-12   9.95540E-01
+  14    23   1        9.74169E-12   9.95531E-01
+  14    23   2        7.69272E-12   9.95531E-01
+  14    23   3        7.70951E-12   9.95531E-01
+
+  14    23         BP   Function    9.67304E-02
+  14    23         Multipliers:     Stable:   4
+  14    23         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    23         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    23         Multiplier  3    8.78795E-01   0.00000E+00  Abs. Val.   8.78795E-01
+  14    23         Multiplier  4    1.13792E+00   0.00000E+00  Abs. Val.   1.13792E+00
+  14    23         Multiplier  5    2.28335E-03   0.00000E+00  Abs. Val.   2.28335E-03
+  14    23         Multiplier  6    4.37952E+02   0.00000E+00  Abs. Val.   4.37952E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    23        0   7.70951E-12   1.13522E-02   9.97819E-01   3.86580E-03   1.55277E-02   4.23101E+00  -1.50005E+00   0.00000E+00
+
+  14    23         Iterations   :   3
+  14    23         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    24   0        8.79490E-12   9.95524E-01
+  14    24   1        9.33347E-12   9.95515E-01
+  14    24   2        9.34418E-12   9.95516E-01
+  14    24   3        9.36216E-12   9.95516E-01
+
+  14    24         BP   Function    1.44687E-01
+  14    24         Multipliers:     Stable:   4
+  14    24         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    24         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    24         Multiplier  3    8.25785E-01   0.00000E+00  Abs. Val.   8.25785E-01
+  14    24         Multiplier  4    1.21097E+00   0.00000E+00  Abs. Val.   1.21097E+00
+  14    24         Multiplier  5    2.29472E-03   0.00000E+00  Abs. Val.   2.29472E-03
+  14    24         Multiplier  6    4.35783E+02   0.00000E+00  Abs. Val.   4.35783E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    24       13   9.36216E-12   1.12340E-02   9.97877E-01   4.69573E-03   1.53606E-02   4.22834E+00  -1.50005E+00   0.00000E+00
+
+  14    24         Iterations   :   3
+  14    24         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    25   0        1.10114E-11   9.95503E-01
+  14    25   1        1.33399E-11   9.95494E-01
+  14    25   2        7.95147E-12   9.95494E-01
+  14    25   3        7.95076E-12   9.95494E-01
+
+  14    25         BP   Function    1.92225E-01
+  14    25         Multipliers:     Stable:   4
+  14    25         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    25         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    25         Multiplier  3    7.78183E-01   0.00000E+00  Abs. Val.   7.78183E-01
+  14    25         Multiplier  4    1.28505E+00   0.00000E+00  Abs. Val.   1.28505E+00
+  14    25         Multiplier  5    2.31054E-03   0.00000E+00  Abs. Val.   2.31054E-03
+  14    25         Multiplier  6    4.32800E+02   0.00000E+00  Abs. Val.   4.32800E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    25        0   7.95076E-12   1.10687E-02   9.97957E-01   5.54400E-03   1.51302E-02   4.22468E+00  -1.50006E+00   0.00000E+00
+
+  14    25         Iterations   :   3
+  14    25         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    26   0        6.54230E-12   9.95475E-01
+  14    26   1        3.67766E-12   9.95467E-01
+  14    26   2        9.94214E-12   9.95467E-01
+  14    26   3        9.94125E-12   9.95467E-01
+
+  14    26         BP   Function    2.39137E-01
+  14    26         Multipliers:     Stable:   4
+  14    26         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    26         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    26         Multiplier  3    7.36089E-01   0.00000E+00  Abs. Val.   7.36089E-01
+  14    26         Multiplier  4    1.35853E+00   0.00000E+00  Abs. Val.   1.35853E+00
+  14    26         Multiplier  5    2.33070E-03   0.00000E+00  Abs. Val.   2.33070E-03
+  14    26         Multiplier  6    4.29056E+02   0.00000E+00  Abs. Val.   4.29056E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    26       14   9.94125E-12   1.08568E-02   9.98055E-01   6.40902E-03   1.48300E-02   4.22009E+00  -1.50006E+00   0.00000E+00
+
+  14    26         Iterations   :   3
+  14    26         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    27   0        1.19275E-11   9.95442E-01
+  14    27   1        1.30438E-11   9.95434E-01
+  14    27   2        1.29976E-11   9.95434E-01
+  14    27   3        1.30118E-11   9.95434E-01
+
+  14    27         BP   Function    2.85116E-01
+  14    27         Multipliers:     Stable:   4
+  14    27         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    27         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    27         Multiplier  3    6.99521E-01   0.00000E+00  Abs. Val.   6.99521E-01
+  14    27         Multiplier  4    1.42955E+00   0.00000E+00  Abs. Val.   1.42955E+00
+  14    27         Multiplier  5    2.35506E-03   0.00000E+00  Abs. Val.   2.35506E-03
+  14    27         Multiplier  6    4.24618E+02   0.00000E+00  Abs. Val.   4.24618E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    27        0   1.30118E-11   1.05984E-02   9.98172E-01   7.27580E-03   1.44730E-02   4.21467E+00  -1.50006E+00   0.00000E+00
+
+  14    27         Iterations   :   3
+  14    27         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    28   0        1.60757E-11   9.95404E-01
+  14    28   1        2.60077E-11   9.95397E-01
+  14    28   2        5.72997E-12   9.95397E-01
+  14    28   3        5.72680E-12   9.95397E-01
+
+  14    28         BP   Function    3.29729E-01
+  14    28         Multipliers:     Stable:   4
+  14    28         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    28         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    28         Multiplier  3    6.68442E-01   0.00000E+00  Abs. Val.   6.68442E-01
+  14    28         Multiplier  4    1.49602E+00   0.00000E+00  Abs. Val.   1.49602E+00
+  14    28         Multiplier  5    2.38344E-03   0.00000E+00  Abs. Val.   2.38344E-03
+  14    28         Multiplier  6    4.19562E+02   0.00000E+00  Abs. Val.   4.19562E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    28       15   5.72680E-12   1.02941E-02   9.98300E-01   8.13754E-03   1.40467E-02   4.20852E+00  -1.50006E+00   0.00000E+00
+
+  14    28         Iterations   :   3
+  14    28         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    29   0       -1.54181E-12   9.95363E-01
+  14    29   1       -1.15518E-11   9.95356E-01
+  14    29   2        5.35836E-12   9.95356E-01
+  14    29   3        5.37190E-12   9.95356E-01
+
+  14    29         BP   Function    3.72398E-01
+  14    29         Multipliers:     Stable:   4
+  14    29         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    29         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    29         Multiplier  3    6.42797E-01   0.00000E+00  Abs. Val.   6.42797E-01
+  14    29         Multiplier  4    1.55570E+00   0.00000E+00  Abs. Val.   1.55570E+00
+  14    29         Multiplier  5    2.41561E-03   0.00000E+00  Abs. Val.   2.41561E-03
+  14    29         Multiplier  6    4.13975E+02   0.00000E+00  Abs. Val.   4.13975E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    29        0   5.37190E-12   9.94450E-03   9.98440E-01   8.98455E-03   1.35628E-02   4.20175E+00  -1.50007E+00   0.00000E+00
+
+  14    29         Iterations   :   3
+  14    29         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    30   0        5.01783E-12   9.95317E-01
+  14    30   1        4.27870E-12   9.95311E-01
+  14    30   2        4.32753E-12   9.95311E-01
+  14    30   3        4.26686E-12   9.95311E-01
+
+  14    30         BP   Function    4.12392E-01
+  14    30         Multipliers:     Stable:   4
+  14    30         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    30         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    30         Multiplier  3    6.22529E-01   0.00000E+00  Abs. Val.   6.22529E-01
+  14    30         Multiplier  4    1.60635E+00   0.00000E+00  Abs. Val.   1.60635E+00
+  14    30         Multiplier  5    2.45127E-03   0.00000E+00  Abs. Val.   2.45127E-03
+  14    30         Multiplier  6    4.07951E+02   0.00000E+00  Abs. Val.   4.07951E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    30       16   4.26686E-12   9.55021E-03   9.98586E-01   9.81606E-03   1.30169E-02   4.19450E+00  -1.50007E+00   0.00000E+00
+
+  14    30         Iterations   :   3
+  14    30         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    31   0        3.16451E-12   9.95269E-01
+  14    31   1        3.90343E-11   9.95264E-01
+  14    31   2        1.40977E-11   9.95264E-01
+  14    31   3        1.40507E-11   9.95264E-01
+
+  14    31         BP   Function    4.48807E-01
+  14    31         Multipliers:     Stable:   4
+  14    31         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    31         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    31         Multiplier  3    6.07604E-01   0.00000E+00  Abs. Val.   6.07604E-01
+  14    31         Multiplier  4    1.64581E+00   0.00000E+00  Abs. Val.   1.64581E+00
+  14    31         Multiplier  5    2.49009E-03   0.00000E+00  Abs. Val.   2.49009E-03
+  14    31         Multiplier  6    4.01592E+02   0.00000E+00  Abs. Val.   4.01592E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    31        0   1.40507E-11   9.11209E-03   9.98737E-01   1.06222E-02   1.24103E-02   4.18689E+00  -1.50008E+00   0.00000E+00
+
+  14    31         Iterations   :   3
+  14    31         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    32   0        2.38096E-11   9.95219E-01
+  14    32   1        4.64093E-13   9.95214E-01
+  14    32   2        2.02374E-11   9.95215E-01
+  14    32   3        2.03353E-11   9.95215E-01
+
+  14    32         BP   Function    4.80557E-01
+  14    32         Multipliers:     Stable:   4
+  14    32         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    32         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    32         Multiplier  3    5.98029E-01   0.00000E+00  Abs. Val.   5.98029E-01
+  14    32         Multiplier  4    1.67216E+00   0.00000E+00  Abs. Val.   1.67216E+00
+  14    32         Multiplier  5    2.53162E-03   0.00000E+00  Abs. Val.   2.53162E-03
+  14    32         Multiplier  6    3.95004E+02   0.00000E+00  Abs. Val.   3.95004E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    32       17   2.03353E-11   8.63114E-03   9.98891E-01   1.13939E-02   1.17444E-02   4.17907E+00  -1.50008E+00   0.00000E+00
+
+  14    32         Iterations   :   3
+  14    32         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    33   0        2.66031E-11   9.95168E-01
+  14    33   1        2.94974E-11   9.95164E-01
+  14    33   2        2.93213E-11   9.95164E-01
+  14    33   3        2.93660E-11   9.95164E-01
+
+  14    33         BP   Function    5.06376E-01
+  14    33         Multipliers:     Stable:   4
+  14    33         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    33         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    33         Multiplier  3    5.93866E-01   0.00000E+00  Abs. Val.   5.93866E-01
+  14    33         Multiplier  4    1.68388E+00   0.00000E+00  Abs. Val.   1.68388E+00
+  14    33         Multiplier  5    2.57534E-03   0.00000E+00  Abs. Val.   2.57534E-03
+  14    33         Multiplier  6    3.88297E+02   0.00000E+00  Abs. Val.   3.88297E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    33        0   2.93660E-11   8.10858E-03   9.99043E-01   1.21336E-02   1.10262E-02   4.17118E+00  -1.50009E+00   0.00000E+00
+
+  14    33         Iterations   :   3
+  14    33         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    34   0        3.83714E-11   9.95116E-01
+  14    34   1        1.18882E-13   9.95113E-01
+  14    34   2        7.77356E-12   9.95114E-01
+  14    34   3        7.84280E-12   9.95114E-01
+
+  14    34         BP   Function    5.24825E-01
+  14    34         Multipliers:     Stable:   4
+  14    34         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    34         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    34         Multiplier  3    5.95238E-01   0.00000E+00  Abs. Val.   5.95238E-01
+  14    34         Multiplier  4    1.68000E+00   0.00000E+00  Abs. Val.   1.68000E+00
+  14    34         Multiplier  5    2.62064E-03   0.00000E+00  Abs. Val.   2.62064E-03
+  14    34         Multiplier  6    3.81585E+02   0.00000E+00  Abs. Val.   3.81585E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    34       18   7.84280E-12   7.54582E-03   9.99192E-01   1.28274E-02   1.02517E-02   4.16335E+00  -1.50009E+00   0.00000E+00
+
+  14    34         Iterations   :   3
+  14    34         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    35   0       -1.36168E-11   9.95065E-01
+  14    35   1        2.02274E-11   9.95063E-01
+  14    35   2        7.94234E-12   9.95064E-01
+  14    35   3        7.92254E-12   9.95064E-01
+
+  14    35         BP   Function    5.34315E-01
+  14    35         Multipliers:     Stable:   4
+  14    35         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    35         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    35         Multiplier  3    6.02340E-01   0.00000E+00  Abs. Val.   6.02340E-01
+  14    35         Multiplier  4    1.66019E+00   0.00000E+00  Abs. Val.   1.66019E+00
+  14    35         Multiplier  5    2.66678E-03   0.00000E+00  Abs. Val.   2.66678E-03
+  14    35         Multiplier  6    3.74983E+02   0.00000E+00  Abs. Val.   3.74983E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    35        0   7.92254E-12   6.94460E-03   9.99335E-01   1.34795E-02   9.42920E-03   4.15573E+00  -1.50010E+00   0.00000E+00
+
+  14    35         Iterations   :   3
+  14    35         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    36   0        8.00204E-12   9.95016E-01
+  14    36   1        7.41016E-12   9.95015E-01
+  14    36   2        7.37687E-12   9.95015E-01
+  14    36   3        7.35768E-12   9.95015E-01
+
+  14    36         BP   Function    5.33172E-01
+  14    36         Multipliers:     Stable:   4
+  14    36         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    36         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    36         Multiplier  3    6.15441E-01   0.00000E+00  Abs. Val.   6.15441E-01
+  14    36         Multiplier  4    1.62485E+00   0.00000E+00  Abs. Val.   1.62485E+00
+  14    36         Multiplier  5    2.71290E-03   0.00000E+00  Abs. Val.   2.71290E-03
+  14    36         Multiplier  6    3.68609E+02   0.00000E+00  Abs. Val.   3.68609E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    36       19   7.35768E-12   6.30693E-03   9.99469E-01   1.40812E-02   8.55756E-03   4.14845E+00  -1.50010E+00   0.00000E+00
+
+  14    36         Iterations   :   3
+  14    36         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    37   0        6.79467E-12   9.94970E-01
+  14    37   1        5.43108E-12   9.94969E-01
+  14    37   2        1.53960E-11   9.94970E-01
+  14    37   3        1.53934E-11   9.94970E-01
+  14    37   4        1.53224E-11   9.94970E-01
+
+  14    37         BP   Function    5.19735E-01
+  14    37         Multipliers:     Stable:   4
+  14    37         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    37         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    37         Multiplier  3    6.34873E-01   0.00000E+00  Abs. Val.   6.34873E-01
+  14    37         Multiplier  4    1.57512E+00   0.00000E+00  Abs. Val.   1.57512E+00
+  14    37         Multiplier  5    2.75803E-03   0.00000E+00  Abs. Val.   2.75803E-03
+  14    37         Multiplier  6    3.62577E+02   0.00000E+00  Abs. Val.   3.62577E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    37        0   1.53224E-11   5.63518E-03   9.99595E-01   1.46190E-02   7.64095E-03   4.14163E+00  -1.50011E+00   0.00000E+00
+
+  14    37         Iterations   :   4
+  14    37         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    38   0        2.32598E-11   9.94927E-01
+  14    38   1        2.13761E-11   9.94927E-01
+  14    38   2        1.82655E-11   9.94928E-01
+  14    38   3        1.83390E-11   9.94928E-01
+  14    38   4        1.82644E-11   9.94928E-01
+
+  14    38         BP   Function    4.92515E-01
+  14    38         Multipliers:     Stable:   4
+  14    38         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    38         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    38         Multiplier  3    6.61018E-01   0.00000E+00  Abs. Val.   6.61018E-01
+  14    38         Multiplier  4    1.51282E+00   0.00000E+00  Abs. Val.   1.51282E+00
+  14    38         Multiplier  5    2.80107E-03   0.00000E+00  Abs. Val.   2.80107E-03
+  14    38         Multiplier  6    3.57004E+02   0.00000E+00  Abs. Val.   3.57004E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    38       20   1.82644E-11   4.93212E-03   9.99709E-01   1.51098E-02   6.68327E-03   4.13541E+00  -1.50011E+00   0.00000E+00
+
+  14    38         Iterations   :   4
+  14    38         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    39   0        2.11958E-11   9.94888E-01
+  14    39   1        2.14578E-11   9.94889E-01
+  14    39   2        2.16147E-11   9.94890E-01
+  14    39   3        2.15319E-11   9.94890E-01
+  14    39   4        2.17018E-11   9.94890E-01
+
+  14    39         BP   Function    4.50402E-01
+  14    39         Multipliers:     Stable:   4
+  14    39         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    39         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    39         Multiplier  3    6.94280E-01   0.00000E+00  Abs. Val.   6.94280E-01
+  14    39         Multiplier  4    1.44034E+00   0.00000E+00  Abs. Val.   1.44034E+00
+  14    39         Multiplier  5    2.84086E-03   0.00000E+00  Abs. Val.   2.84086E-03
+  14    39         Multiplier  6    3.52001E+02   0.00000E+00  Abs. Val.   3.52001E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    39        0   2.17018E-11   4.20089E-03   9.99808E-01   1.55337E-02   5.68884E-03   4.12988E+00  -1.50011E+00   0.00000E+00
+
+  14    39         Iterations   :   4
+  14    39         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    40   0        2.51261E-11   9.94855E-01
+  14    40   1        1.13821E-10   9.94856E-01
+  14    40   2        2.89634E-11   9.94857E-01
+  14    40   3        2.90348E-11   9.94857E-01
+  14    40   4        2.91389E-11   9.94857E-01
+
+  14    40         BP   Function    3.92918E-01
+  14    40         Multipliers:     Stable:   4
+  14    40         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    40         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    40         Multiplier  3    7.35038E-01   0.00000E+00  Abs. Val.   7.35038E-01
+  14    40         Multiplier  4    1.36047E+00   0.00000E+00  Abs. Val.   1.36047E+00
+  14    40         Multiplier  5    2.87626E-03   0.00000E+00  Abs. Val.   2.87626E-03
+  14    40         Multiplier  6    3.47678E+02   0.00000E+00  Abs. Val.   3.47678E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    40       21   2.91389E-11   3.44508E-03   9.99894E-01   1.58821E-02   4.66348E-03   4.12514E+00  -1.50012E+00   0.00000E+00
+
+  14    40         Iterations   :   4
+  14    40         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    41   0        3.65466E-11   9.94827E-01
+  14    41   1       -5.35749E-11   9.94829E-01
+  14    41   2        3.45963E-11   9.94830E-01
+  14    41   3        3.45801E-11   9.94830E-01
+  14    41   4        3.44712E-11   9.94830E-01
+
+  14    41         BP   Function    3.20471E-01
+  14    41         Multipliers:     Stable:   4
+  14    41         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    41         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    41         Multiplier  3    7.83583E-01   0.00000E+00  Abs. Val.   7.83583E-01
+  14    41         Multiplier  4    1.27618E+00   0.00000E+00  Abs. Val.   1.27618E+00
+  14    41         Multiplier  5    2.90597E-03   0.00000E+00  Abs. Val.   2.90597E-03
+  14    41         Multiplier  6    3.44120E+02   0.00000E+00  Abs. Val.   3.44120E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    41        0   3.44712E-11   2.66866E-03   9.99962E-01   1.61711E-02   3.61119E-03   4.12129E+00  -1.50012E+00   0.00000E+00
+
+  14    41         Iterations   :   4
+  14    41         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    42   0        3.97818E-11   9.94806E-01
+  14    42   1        3.91387E-11   9.94808E-01
+  14    42   2        3.94580E-11   9.94810E-01
+  14    42   3        3.95977E-11   9.94810E-01
+  14    42   4        3.93843E-11   9.94810E-01
+
+  14    42         BP   Function    2.34557E-01
+  14    42         Multipliers:     Stable:   4
+  14    42         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    42         Multiplier  2    1.00001E+00   0.00000E+00  Abs. Val.   1.00001E+00
+  14    42         Multiplier  3    8.40032E-01   0.00000E+00  Abs. Val.   8.40032E-01
+  14    42         Multiplier  4    1.19042E+00   0.00000E+00  Abs. Val.   1.19042E+00
+  14    42         Multiplier  5    2.92907E-03   0.00000E+00  Abs. Val.   2.92907E-03
+  14    42         Multiplier  6    3.41378E+02   0.00000E+00  Abs. Val.   3.41378E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    42       22   3.93843E-11   1.87597E-03   1.00001E+00   1.63860E-02   2.53782E-03   4.11839E+00  -1.50012E+00   0.00000E+00
+
+  14    42         Iterations   :   4
+  14    42         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    43   0        4.42767E-11   9.94792E-01
+  14    43   1        7.30246E-11   9.94794E-01
+  14    43   2        2.15484E-11   9.94797E-01
+  14    43   3        2.15723E-11   9.94797E-01
+  14    43   4        2.16200E-11   9.94797E-01
+
+  14    43         BP   Function    1.37838E-01
+  14    43         Multipliers:     Stable:   3
+  14    43         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    43         Multiplier  2    1.00005E+00   0.00000E+00  Abs. Val.   1.00005E+00
+  14    43         Multiplier  3    9.04209E-01   0.00000E+00  Abs. Val.   9.04209E-01
+  14    43         Multiplier  4    1.10586E+00   0.00000E+00  Abs. Val.   1.10586E+00
+  14    43         Multiplier  5    2.94567E-03   0.00000E+00  Abs. Val.   2.94567E-03
+  14    43         Multiplier  6    3.39516E+02   0.00000E+00  Abs. Val.   3.39516E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    43        0   2.16200E-11   1.07168E-03   1.00005E+00   1.65233E-02   1.44917E-03   4.11648E+00  -1.50012E+00   0.00000E+00
+
+  14    43         Iterations   :   4
+  14    43         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    44   0        3.93214E-12   9.94786E-01
+  14    44   1       -2.67644E-11   9.94776E-01
+  14    44   2        2.14207E-11   9.94791E-01
+  14    44   3        2.20807E-11   9.94791E-01
+  14    44   4        2.21079E-11   9.94791E-01
+
+  14    44         BP   Function    3.40756E-02
+  14    44         Multipliers:     Stable:   3
+  14    44         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    44         Multiplier  2    1.00011E+00   0.00000E+00  Abs. Val.   1.00011E+00
+  14    44         Multiplier  3    9.51235E-01   0.00000E+00  Abs. Val.   9.51235E-01
+  14    44         Multiplier  4    1.05121E+00   0.00000E+00  Abs. Val.   1.05121E+00
+  14    44         Multiplier  5    2.95086E-03   0.00000E+00  Abs. Val.   2.95086E-03
+  14    44         Multiplier  6    3.38884E+02   0.00000E+00  Abs. Val.   3.38884E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    44       23   2.21079E-11   2.60688E-04   1.00006E+00   1.65854E-02   3.52491E-04   4.11562E+00  -1.50012E+00   0.00000E+00
+
+  14    44         Iterations   :   4
+  14    44         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    45   0        2.25937E-11   9.94787E-01
+  14    45   1        2.22713E-11   9.94798E-01
+  14    45   2        2.20700E-11   9.94792E-01
+  14    45   3        2.21065E-11   9.94792E-01
+  14    45   4        2.20124E-11   9.94792E-01
+
+  14    45         BP   Function   -7.22649E-02
+ ==> Location of special point :  Iteration   0  Step size =  -1.06181E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    45   0        2.20770E-11   9.94791E-01
+  14    45   1        2.21657E-11   9.94788E-01
+  14    45   2        2.22311E-11   9.94790E-01
+  14    45   3        2.24312E-11   9.94790E-01
+  14    45   4        2.21926E-11   9.94790E-01
+
+  14    45         BP   Function   -2.98661E-04
+ ==> Location of special point :  Convergence.   Step size =  -4.36795E-06
+  14    45         Multipliers:     Stable:   5
+  14    45         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    45         Multiplier  2    9.99992E-01   4.09695E-03  Abs. Val.   1.00000E+00
+  14    45         Multiplier  3    9.99992E-01  -4.09695E-03  Abs. Val.   1.00000E+00
+  14    45         Multiplier  4    9.99992E-01   0.00000E+00  Abs. Val.   9.99992E-01
+  14    45         Multiplier  5    2.95222E-03   0.00000E+00  Abs. Val.   2.95222E-03
+  14    45         Multiplier  6    3.38742E+02   0.00000E+00  Abs. Val.   3.38742E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    45  BP   24   2.21926E-11   2.25149E-06   1.00006E+00   1.65893E-02   3.04444E-06   4.11557E+00  -1.50012E+00   3.38742E+02
+
+  14    45         Iterations   :   4
+  14    45         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    46   0        2.19274E-11   9.94793E-01
+  14    46   1        7.11069E-11   9.94794E-01
+  14    46   2        2.79996E-11   9.94794E-01
+  14    46   3        2.79491E-11   9.94794E-01
+
+  14    46         BP   Function   -1.06793E-01
+  14    46         Multipliers:     Stable:   4
+  14    46         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    46         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    46         Multiplier  3    9.26516E-01   0.00000E+00  Abs. Val.   9.26516E-01
+  14    46         Multiplier  4    1.07931E+00   0.00000E+00  Abs. Val.   1.07931E+00
+  14    46         Multiplier  5    2.94723E-03   0.00000E+00  Abs. Val.   2.94723E-03
+  14    46         Multiplier  6    3.39301E+02   0.00000E+00  Abs. Val.   3.39301E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    46       25   2.79491E-11   8.10856E-04   1.00005E+00   1.65529E-02   1.09639E-03   4.11609E+00  -1.50012E+00   0.00000E+00
+
+  14    46         Iterations   :   3
+  14    46         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    47   0        3.37050E-11   9.94800E-01
+  14    47   1       -2.28149E-10   9.94807E-01
+  14    47   2        2.67181E-11   9.94805E-01
+  14    47   3        2.70091E-11   9.94805E-01
+
+  14    47         BP   Function   -2.08156E-01
+  14    47         Multipliers:     Stable:   3
+  14    47         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    47         Multiplier  2    1.00002E+00   0.00000E+00  Abs. Val.   1.00002E+00
+  14    47         Multiplier  3    8.59879E-01   0.00000E+00  Abs. Val.   8.59879E-01
+  14    47         Multiplier  4    1.16293E+00   0.00000E+00  Abs. Val.   1.16293E+00
+  14    47         Multiplier  5    2.93540E-03   0.00000E+00  Abs. Val.   2.93540E-03
+  14    47         Multiplier  6    3.40667E+02   0.00000E+00  Abs. Val.   3.40667E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    47        0   2.70091E-11   1.61788E-03   1.00003E+00   1.64377E-02   2.18783E-03   4.11766E+00  -1.50012E+00   0.00000E+00
+
+  14    47         Iterations   :   3
+  14    47         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    48   0        2.60731E-11   9.94819E-01
+  14    48   1        2.51796E-11   9.94825E-01
+  14    48   2        2.54178E-11   9.94823E-01
+  14    48   3        2.53161E-11   9.94823E-01
+
+  14    48         BP   Function   -3.01955E-01
+  14    48         Multipliers:     Stable:   4
+  14    48         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    48         Multiplier  2    1.00001E+00   0.00000E+00  Abs. Val.   1.00001E+00
+  14    48         Multiplier  3    8.00900E-01   0.00000E+00  Abs. Val.   8.00900E-01
+  14    48         Multiplier  4    1.24858E+00   0.00000E+00  Abs. Val.   1.24858E+00
+  14    48         Multiplier  5    2.91432E-03   0.00000E+00  Abs. Val.   2.91432E-03
+  14    48         Multiplier  6    3.43131E+02   0.00000E+00  Abs. Val.   3.43131E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    48       26   2.53161E-11   2.41490E-03   9.99981E-01   1.62465E-02   3.26648E-03   4.12025E+00  -1.50012E+00   0.00000E+00
+
+  14    48         Iterations   :   3
+  14    48         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    49   0        2.36305E-11   9.94844E-01
+  14    49   1       -1.84878E-10   9.94849E-01
+  14    49   2        2.22044E-11   9.94848E-01
+  14    49   3        2.24370E-11   9.94848E-01
+
+  14    49         BP   Function   -3.83645E-01
+  14    49         Multipliers:     Stable:   4
+  14    49         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    49         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    49         Multiplier  3    7.49808E-01   0.00000E+00  Abs. Val.   7.49808E-01
+  14    49         Multiplier  4    1.33367E+00   0.00000E+00  Abs. Val.   1.33367E+00
+  14    49         Multiplier  5    2.88654E-03   0.00000E+00  Abs. Val.   2.88654E-03
+  14    49         Multiplier  6    3.46441E+02   0.00000E+00  Abs. Val.   3.46441E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    49        0   2.24370E-11   3.19714E-03   9.99918E-01   1.59863E-02   4.32716E-03   4.12380E+00  -1.50012E+00   0.00000E+00
+
+  14    49         Iterations   :   3
+  14    49         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    50   0        1.95700E-11   9.94875E-01
+  14    50   1        2.20571E-10   9.94880E-01
+  14    50   2        2.03555E-11   9.94879E-01
+  14    50   3        2.02608E-11   9.94879E-01
+
+  14    50         BP   Function   -4.50643E-01
+  14    50         Multipliers:     Stable:   4
+  14    50         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    50         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    50         Multiplier  3    7.06563E-01   0.00000E+00  Abs. Val.   7.06563E-01
+  14    50         Multiplier  4    1.41530E+00   0.00000E+00  Abs. Val.   1.41530E+00
+  14    50         Multiplier  5    2.85283E-03   0.00000E+00  Abs. Val.   2.85283E-03
+  14    50         Multiplier  6    3.50531E+02   0.00000E+00  Abs. Val.   3.50531E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    50       27   2.02608E-11   3.96015E-03   9.99837E-01   1.56493E-02   5.36248E-03   4.12826E+00  -1.50011E+00   0.00000E+00
+
+  14    50         Iterations   :   3
+  14    50         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    51   0        1.80936E-11   9.94912E-01
+  14    51   1        1.89282E-11   9.94916E-01
+  14    51   2        1.91574E-11   9.94915E-01
+  14    51   3        1.91152E-11   9.94915E-01
+
+  14    51         BP   Function   -5.01603E-01
+  14    51         Multipliers:     Stable:   4
+  14    51         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    51         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    51         Multiplier  3    6.70922E-01   0.00000E+00  Abs. Val.   6.70922E-01
+  14    51         Multiplier  4    1.49048E+00   0.00000E+00  Abs. Val.   1.49048E+00
+  14    51         Multiplier  5    2.81431E-03   0.00000E+00  Abs. Val.   2.81431E-03
+  14    51         Multiplier  6    3.55328E+02   0.00000E+00  Abs. Val.   3.55328E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    51        0   1.91152E-11   4.69980E-03   9.99742E-01   1.52504E-02   6.36753E-03   4.13355E+00  -1.50011E+00   0.00000E+00
+
+  14    51         Iterations   :   3
+  14    51         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    52   0        1.79741E-11   9.94953E-01
+  14    52   1        1.40674E-10   9.94956E-01
+  14    52   2        1.25433E-11   9.94956E-01
+  14    52   3        1.24746E-11   9.94956E-01
+
+  14    52         BP   Function   -5.36335E-01
+  14    52         Multipliers:     Stable:   4
+  14    52         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    52         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    52         Multiplier  3    6.42527E-01   0.00000E+00  Abs. Val.   6.42527E-01
+  14    52         Multiplier  4    1.55635E+00   0.00000E+00  Abs. Val.   1.55635E+00
+  14    52         Multiplier  5    2.77216E-03   0.00000E+00  Abs. Val.   2.77216E-03
+  14    52         Multiplier  6    3.60730E+02   0.00000E+00  Abs. Val.   3.60730E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    52       28   1.24746E-11   5.41241E-03   9.99633E-01   1.47881E-02   7.33624E-03   4.13956E+00  -1.50011E+00   0.00000E+00
+
+  14    52         Iterations   :   3
+  14    52         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    53   0        5.85957E-12   9.94999E-01
+  14    53   1       -1.04379E-10   9.95001E-01
+  14    53   2        1.06449E-11   9.95000E-01
+  14    53   3        1.06928E-11   9.95000E-01
+
+  14    53         BP   Function   -5.55585E-01
+  14    53         Multipliers:     Stable:   4
+  14    53         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    53         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    53         Multiplier  3    6.20978E-01   0.00000E+00  Abs. Val.   6.20978E-01
+  14    53         Multiplier  4    1.61036E+00   0.00000E+00  Abs. Val.   1.61036E+00
+  14    53         Multiplier  5    2.72756E-03   0.00000E+00  Abs. Val.   2.72756E-03
+  14    53         Multiplier  6    3.66628E+02   0.00000E+00  Abs. Val.   3.66628E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    53        0   1.06928E-11   6.09466E-03   9.99511E-01   1.42571E-02   8.26737E-03   4.14620E+00  -1.50010E+00   0.00000E+00
+
+  14    53         Iterations   :   3
+  14    53         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    54   0        8.91761E-12   9.95047E-01
+  14    54   1        9.54869E-12   9.95048E-01
+  14    54   2        9.57285E-12   9.95048E-01
+  14    54   3        9.49935E-12   9.95048E-01
+
+  14    54         BP   Function   -5.60759E-01
+  14    54         Multipliers:     Stable:   4
+  14    54         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    54         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    54         Multiplier  3    6.05879E-01   0.00000E+00  Abs. Val.   6.05879E-01
+  14    54         Multiplier  4    1.65049E+00   0.00000E+00  Abs. Val.   1.65049E+00
+  14    54         Multiplier  5    2.68164E-03   0.00000E+00  Abs. Val.   2.68164E-03
+  14    54         Multiplier  6    3.72906E+02   0.00000E+00  Abs. Val.   3.72906E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    54       29   9.49935E-12   6.74366E-03   9.99379E-01   1.36778E-02   9.15458E-03   4.15335E+00  -1.50010E+00   0.00000E+00
+
+  14    54         Iterations   :   3
+  14    54         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    55   0        8.31004E-12   9.95098E-01
+  14    55   1       -2.36088E-12   9.95098E-01
+  14    55   2        9.02271E-12   9.95097E-01
+  14    55   3        8.83825E-12   9.95097E-01
+
+  14    55         BP   Function   -5.53641E-01
+  14    55         Multipliers:     Stable:   4
+  14    55         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    55         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    55         Multiplier  3    5.96882E-01   0.00000E+00  Abs. Val.   5.96882E-01
+  14    55         Multiplier  4    1.67537E+00   0.00000E+00  Abs. Val.   1.67537E+00
+  14    55         Multiplier  5    2.63540E-03   0.00000E+00  Abs. Val.   2.63540E-03
+  14    55         Multiplier  6    3.79449E+02   0.00000E+00  Abs. Val.   3.79449E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    55        0   8.83825E-12   7.35693E-03   9.99238E-01   1.30446E-02   9.99123E-03   4.16088E+00  -1.50009E+00   0.00000E+00
+
+  14    55         Iterations   :   3
+  14    55         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    56   0        8.17935E-12   9.95149E-01
+  14    56   1        1.82122E-11   9.95148E-01
+  14    56   2        7.81267E-12   9.95148E-01
+  14    56   3        7.78247E-12   9.95148E-01
+
+  14    56         BP   Function   -5.36154E-01
+  14    56         Multipliers:     Stable:   4
+  14    56         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    56         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    56         Multiplier  3    5.93695E-01   0.00000E+00  Abs. Val.   5.93695E-01
+  14    56         Multiplier  4    1.68437E+00   0.00000E+00  Abs. Val.   1.68437E+00
+  14    56         Multiplier  5    2.58974E-03   0.00000E+00  Abs. Val.   2.58974E-03
+  14    56         Multiplier  6    3.86139E+02   0.00000E+00  Abs. Val.   3.86139E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    56       30   7.78247E-12   7.93232E-03   9.99091E-01   1.23603E-02   1.07826E-02   4.16865E+00  -1.50009E+00   0.00000E+00
+
+  14    56         Iterations   :   3
+  14    56         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    57   0        6.73003E-12   9.95201E-01
+  14    57   1        7.04983E-12   9.95199E-01
+  14    57   2        7.16100E-12   9.95198E-01
+  14    57   3        7.21953E-12   9.95198E-01
+
+  14    57         BP   Function   -5.10190E-01
+  14    57         Multipliers:     Stable:   4
+  14    57         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    57         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    57         Multiplier  3    5.96100E-01   0.00000E+00  Abs. Val.   5.96100E-01
+  14    57         Multiplier  4    1.67757E+00   0.00000E+00  Abs. Val.   1.67757E+00
+  14    57         Multiplier  5    2.54543E-03   0.00000E+00  Abs. Val.   2.54543E-03
+  14    57         Multiplier  6    3.92861E+02   0.00000E+00  Abs. Val.   3.92861E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    57        0   7.21953E-12   8.46803E-03   9.98940E-01   1.16352E-02   1.15214E-02   4.17654E+00  -1.50008E+00   0.00000E+00
+
+  14    57         Iterations   :   3
+  14    57         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    58   0        6.65828E-12   9.95251E-01
+  14    58   1       -1.32431E-11   9.95248E-01
+  14    58   2        8.45158E-12   9.95248E-01
+  14    58   3        8.46336E-12   9.95248E-01
+
+  14    58         BP   Function   -4.77493E-01
+  14    58         Multipliers:     Stable:   4
+  14    58         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    58         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    58         Multiplier  3    6.03950E-01   0.00000E+00  Abs. Val.   6.03950E-01
+  14    58         Multiplier  4    1.65576E+00   0.00000E+00  Abs. Val.   1.65576E+00
+  14    58         Multiplier  5    2.50313E-03   0.00000E+00  Abs. Val.   2.50313E-03
+  14    58         Multiplier  6    3.99500E+02   0.00000E+00  Abs. Val.   3.99500E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    58       31   8.46336E-12   8.96253E-03   9.98787E-01   1.08733E-02   1.22003E-02   4.18440E+00  -1.50008E+00   0.00000E+00
+
+  14    58         Iterations   :   3
+  14    58         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    59   0        9.70363E-12   9.95300E-01
+  14    59   1        3.19477E-11   9.95297E-01
+  14    59   2        7.88903E-12   9.95296E-01
+  14    59   3        7.88791E-12   9.95296E-01
+
+  14    59         BP   Function   -4.39608E-01
+  14    59         Multipliers:     Stable:   4
+  14    59         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    59         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    59         Multiplier  3    6.17165E-01   0.00000E+00  Abs. Val.   6.17165E-01
+  14    59         Multiplier  4    1.62031E+00   0.00000E+00  Abs. Val.   1.62031E+00
+  14    59         Multiplier  5    2.46339E-03   0.00000E+00  Abs. Val.   2.46339E-03
+  14    59         Multiplier  6    4.05945E+02   0.00000E+00  Abs. Val.   4.05945E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    59        0   7.88791E-12   9.41456E-03   9.98634E-01   1.00775E-02   1.28277E-02   4.19209E+00  -1.50007E+00   0.00000E+00
+
+  14    59         Iterations   :   3
+  14    59         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    60   0        7.31403E-12   9.95347E-01
+  14    60   1        8.01112E-12   9.95342E-01
+  14    60   2        8.09328E-12   9.95342E-01
+  14    60   3        8.07030E-12   9.95342E-01
+
+  14    60         BP   Function   -3.97847E-01
+  14    60         Multipliers:     Stable:   4
+  14    60         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    60         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    60         Multiplier  3    6.35722E-01   0.00000E+00  Abs. Val.   6.35722E-01
+  14    60         Multiplier  4    1.57301E+00   0.00000E+00  Abs. Val.   1.57301E+00
+  14    60         Multiplier  5    2.42666E-03   0.00000E+00  Abs. Val.   2.42666E-03
+  14    60         Multiplier  6    4.12088E+02   0.00000E+00  Abs. Val.   4.12088E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    60       32   8.07030E-12   9.82303E-03   9.98486E-01   9.25221E-03   1.33952E-02   4.19947E+00  -1.50007E+00   0.00000E+00
+
+  14    60         Iterations   :   3
+  14    60         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    61   0        8.25222E-12   9.95390E-01
+  14    61   1        1.90276E-11   9.95385E-01
+  14    61   2        5.35309E-12   9.95384E-01
+  14    61   3        5.41251E-12   9.95384E-01
+
+  14    61         BP   Function   -3.53300E-01
+  14    61         Multipliers:     Stable:   4
+  14    61         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    61         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    61         Multiplier  3    6.59642E-01   0.00000E+00  Abs. Val.   6.59642E-01
+  14    61         Multiplier  4    1.51597E+00   0.00000E+00  Abs. Val.   1.51597E+00
+  14    61         Multiplier  5    2.39334E-03   0.00000E+00  Abs. Val.   2.39334E-03
+  14    61         Multiplier  6    4.17827E+02   0.00000E+00  Abs. Val.   4.17827E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    61        0   5.41251E-12   1.01871E-02   9.98344E-01   8.41219E-03   1.38985E-02   4.20641E+00  -1.50007E+00   0.00000E+00
+
+  14    61         Iterations   :   3
+  14    61         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    62   0        2.76128E-12   9.95429E-01
+  14    62   1       -7.38538E-12   9.95423E-01
+  14    62   2        5.59403E-12   9.95423E-01
+  14    62   3        5.57279E-12   9.95423E-01
+
+  14    62         BP   Function   -3.06840E-01
+  14    62         Multipliers:     Stable:   4
+  14    62         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    62         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    62         Multiplier  3    6.88977E-01   0.00000E+00  Abs. Val.   6.88977E-01
+  14    62         Multiplier  4    1.45143E+00   0.00000E+00  Abs. Val.   1.45143E+00
+  14    62         Multiplier  5    2.36371E-03   0.00000E+00  Abs. Val.   2.36371E-03
+  14    62         Multiplier  6    4.23063E+02   0.00000E+00  Abs. Val.   4.23063E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    62       33   5.57279E-12   1.05060E-02   9.98211E-01   7.55340E-03   1.43430E-02   4.21277E+00  -1.50006E+00   0.00000E+00
+
+  14    62         Iterations   :   3
+  14    62         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    63   0        5.73270E-12   9.95464E-01
+  14    63   1        6.29179E-12   9.95457E-01
+  14    63   2        6.30133E-12   9.95457E-01
+  14    63   3        6.31830E-12   9.95457E-01
+
+  14    63         BP   Function   -2.59150E-01
+  14    63         Multipliers:     Stable:   4
+  14    63         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    63         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    63         Multiplier  3    7.23786E-01   0.00000E+00  Abs. Val.   7.23786E-01
+  14    63         Multiplier  4    1.38162E+00   0.00000E+00  Abs. Val.   1.38162E+00
+  14    63         Multiplier  5    2.33804E-03   0.00000E+00  Abs. Val.   2.33804E-03
+  14    63         Multiplier  6    4.27708E+02   0.00000E+00  Abs. Val.   4.27708E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    63        0   6.31830E-12   1.07791E-02   9.98091E-01   6.68755E-03   1.47260E-02   4.21844E+00  -1.50006E+00   0.00000E+00
+
+  14    63         Iterations   :   3
+  14    63         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    64   0        7.06212E-12   9.95493E-01
+  14    64   1        1.33393E-11   9.95486E-01
+  14    64   2        6.22678E-12   9.95486E-01
+  14    64   3        6.18013E-12   9.95486E-01
+
+  14    64         BP   Function   -2.10739E-01
+  14    64         Multipliers:     Stable:   4
+  14    64         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    64         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    64         Multiplier  3    7.64113E-01   0.00000E+00  Abs. Val.   7.64113E-01
+  14    64         Multiplier  4    1.30871E+00   0.00000E+00  Abs. Val.   1.30871E+00
+  14    64         Multiplier  5    2.31652E-03   0.00000E+00  Abs. Val.   2.31652E-03
+  14    64         Multiplier  6    4.31682E+02   0.00000E+00  Abs. Val.   4.31682E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    64       34   6.18013E-12   1.10060E-02   9.97986E-01   5.82008E-03   1.50397E-02   4.22330E+00  -1.50006E+00   0.00000E+00
+
+  14    64         Iterations   :   3
+  14    64         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    65   0        6.04226E-12   9.95517E-01
+  14    65   1       -1.53807E-12   9.95510E-01
+  14    65   2        6.09095E-12   9.95509E-01
+  14    65   3        6.10220E-12   9.95509E-01
+
+  14    65         BP   Function   -1.61973E-01
+  14    65         Multipliers:     Stable:   4
+  14    65         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    65         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    65         Multiplier  3    8.09961E-01   0.00000E+00  Abs. Val.   8.09961E-01
+  14    65         Multiplier  4    1.23463E+00   0.00000E+00  Abs. Val.   1.23463E+00
+  14    65         Multiplier  5    2.29930E-03   0.00000E+00  Abs. Val.   2.29930E-03
+  14    65         Multiplier  6    4.34915E+02   0.00000E+00  Abs. Val.   4.34915E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    65        0   6.10220E-12   1.11862E-02   9.97901E-01   4.96633E-03   1.52950E-02   4.22727E+00  -1.50005E+00   0.00000E+00
+
+  14    65         Iterations   :   3
+  14    65         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    66   0        6.02443E-12   9.95535E-01
+  14    66   1        6.53582E-12   9.95528E-01
+  14    66   2        6.55460E-12   9.95527E-01
+  14    66   3        6.59934E-12   9.95527E-01
+
+  14    66         BP   Function   -1.13096E-01
+  14    66         Multipliers:     Stable:   4
+  14    66         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    66         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    66         Multiplier  3    8.61260E-01   0.00000E+00  Abs. Val.   8.61260E-01
+  14    66         Multiplier  4    1.16109E+00   0.00000E+00  Abs. Val.   1.16109E+00
+  14    66         Multiplier  5    2.28650E-03   0.00000E+00  Abs. Val.   2.28650E-03
+  14    66         Multiplier  6    4.37349E+02   0.00000E+00  Abs. Val.   4.37349E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    66       35   6.59934E-12   1.13195E-02   9.97835E-01   4.12676E-03   1.54810E-02   4.23027E+00  -1.50005E+00   0.00000E+00
+
+  14    66         Iterations   :   3
+  14    66         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    67   0        7.09545E-12   9.95547E-01
+  14    67   1        3.07235E-12   9.95540E-01
+  14    67   2        5.45144E-12   9.95539E-01
+  14    67   3        5.47118E-12   9.95539E-01
+  14    67   4        5.47147E-12   9.95539E-01
+
+  14    67         BP   Function   -6.42585E-02
+  14    67         Multipliers:     Stable:   4
+  14    67         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    67         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    67         Multiplier  3    9.17832E-01   0.00000E+00  Abs. Val.   9.17832E-01
+  14    67         Multiplier  4    1.08952E+00   0.00000E+00  Abs. Val.   1.08952E+00
+  14    67         Multiplier  5    2.27820E-03   0.00000E+00  Abs. Val.   2.27820E-03
+  14    67         Multiplier  6    4.38943E+02   0.00000E+00  Abs. Val.   4.38943E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    67        0   5.47147E-12   1.14056E-02   9.97791E-01   3.31992E-03   1.55988E-02   4.23223E+00  -1.50005E+00   0.00000E+00
+
+  14    67         Iterations   :   4
+  14    67         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    68   0        4.34592E-12   9.95553E-01
+  14    68   1        7.79190E-12   9.95548E-01
+  14    68   2        6.37692E-12   9.95544E-01
+  14    68   3        6.33248E-12   9.95544E-01
+  14    68   4        6.36252E-12   9.95544E-01
+
+  14    68         BP   Function   -1.55459E-02
+  14    68         Multipliers:     Stable:   3
+  14    68         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    68         Multiplier  2    1.00001E+00   0.00000E+00  Abs. Val.   1.00001E+00
+  14    68         Multiplier  3    9.79287E-01   0.00000E+00  Abs. Val.   9.79287E-01
+  14    68         Multiplier  4    1.02114E+00   0.00000E+00  Abs. Val.   1.02114E+00
+  14    68         Multiplier  5    2.27446E-03   0.00000E+00  Abs. Val.   2.27446E-03
+  14    68         Multiplier  6    4.39666E+02   0.00000E+00  Abs. Val.   4.39666E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    68       36   6.36252E-12   1.14445E-02   9.97770E-01   2.55257E-03   1.56556E-02   4.23313E+00  -1.50005E+00   0.00000E+00
+
+  14    68         Iterations   :   4
+  14    68         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    69   0        7.25177E-12   9.95552E-01
+  14    69   1        8.13016E-12   9.95541E-01
+  14    69   2        8.17763E-12   9.95543E-01
+  14    69   3        8.17183E-12   9.95543E-01
+  14    69   4        8.14821E-12   9.95543E-01
+
+  14    69         BP   Function    3.29948E-02
+ ==> Location of special point :  Iteration   0  Step size =  -1.06208E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    69   0        6.93687E-12   9.95543E-01
+  14    69   1        6.83816E-12   9.95546E-01
+  14    69   2        6.78967E-12   9.95544E-01
+  14    69   3        6.80577E-12   9.95544E-01
+  14    69   4        6.80508E-12   9.95544E-01
+
+  14    69         BP   Function    8.90195E-05
+ ==> Location of special point :  Convergence.   Step size =  -2.85680E-06
+  14    69         Multipliers:     Stable:   4
+  14    69         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    69         Multiplier  2    9.99999E-01   0.00000E+00  Abs. Val.   9.99999E-01
+  14    69         Multiplier  3    9.96780E-01   0.00000E+00  Abs. Val.   9.96780E-01
+  14    69         Multiplier  4    1.00323E+00   0.00000E+00  Abs. Val.   1.00323E+00
+  14    69         Multiplier  5    2.27423E-03   0.00000E+00  Abs. Val.   2.27423E-03
+  14    69         Multiplier  6    4.39710E+02   0.00000E+00  Abs. Val.   4.39710E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    69  BP   37   6.80508E-12   1.14469E-02   9.97770E-01   2.31971E-03   1.56599E-02   4.23318E+00  -1.50005E+00   0.00000E+00
+
+  14    69         Iterations   :   4
+  14    69         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    70   0        8.78094E-12   9.95542E-01
+  14    70   1        7.53870E-12   9.95541E-01
+  14    70   2        6.17237E-12   9.95541E-01
+  14    70   3        6.13885E-12   9.95541E-01
+
+  14    70         BP   Function    4.86495E-02
+  14    70         Multipliers:     Stable:   4
+  14    70         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    70         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    70         Multiplier  3    9.37001E-01   0.00000E+00  Abs. Val.   9.37001E-01
+  14    70         Multiplier  4    1.06723E+00   0.00000E+00  Abs. Val.   1.06723E+00
+  14    70         Multiplier  5    2.27650E-03   0.00000E+00  Abs. Val.   2.27650E-03
+  14    70         Multiplier  6    4.39270E+02   0.00000E+00  Abs. Val.   4.39270E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    70       38   6.13885E-12   1.14232E-02   9.97782E-01   3.06817E-03   1.56251E-02   4.23264E+00  -1.50005E+00   0.00000E+00
+
+  14    70         Iterations   :   3
+  14    70         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    71   0        5.47265E-12   9.95540E-01
+  14    71   1       -2.42711E-12   9.95531E-01
+  14    71   2        6.55419E-12   9.95531E-01
+  14    71   3        6.54507E-12   9.95531E-01
+
+  14    71         BP   Function    9.67234E-02
+  14    71         Multipliers:     Stable:   4
+  14    71         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    71         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    71         Multiplier  3    8.78803E-01   0.00000E+00  Abs. Val.   8.78803E-01
+  14    71         Multiplier  4    1.13791E+00   0.00000E+00  Abs. Val.   1.13791E+00
+  14    71         Multiplier  5    2.28335E-03   0.00000E+00  Abs. Val.   2.28335E-03
+  14    71         Multiplier  6    4.37953E+02   0.00000E+00  Abs. Val.   4.37953E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    71        0   6.54507E-12   1.13522E-02   9.97819E-01   3.86441E-03   1.55278E-02   4.23101E+00  -1.50005E+00   0.00000E+00
+
+  14    71         Iterations   :   3
+  14    71         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    72   0        6.95047E-12   9.95524E-01
+  14    72   1        7.16234E-12   9.95515E-01
+  14    72   2        7.20933E-12   9.95516E-01
+  14    72   3        7.22244E-12   9.95516E-01
+
+  14    72         BP   Function    1.44680E-01
+  14    72         Multipliers:     Stable:   4
+  14    72         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    72         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    72         Multiplier  3    8.25792E-01   0.00000E+00  Abs. Val.   8.25792E-01
+  14    72         Multiplier  4    1.21096E+00   0.00000E+00  Abs. Val.   1.21096E+00
+  14    72         Multiplier  5    2.29472E-03   0.00000E+00  Abs. Val.   2.29472E-03
+  14    72         Multiplier  6    4.35783E+02   0.00000E+00  Abs. Val.   4.35783E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    72       39   7.22244E-12   1.12340E-02   9.97877E-01   4.69457E-03   1.53604E-02   4.22834E+00  -1.50005E+00   0.00000E+00
+
+  14    72         Iterations   :   3
+  14    72         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    73   0        7.89843E-12   9.95503E-01
+  14    73   1        1.23184E-11   9.95494E-01
+  14    73   2        7.94400E-12   9.95494E-01
+  14    73   3        7.88342E-12   9.95494E-01
+
+  14    73         BP   Function    1.92218E-01
+  14    73         Multipliers:     Stable:   4
+  14    73         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    73         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    73         Multiplier  3    7.78189E-01   0.00000E+00  Abs. Val.   7.78189E-01
+  14    73         Multiplier  4    1.28503E+00   0.00000E+00  Abs. Val.   1.28503E+00
+  14    73         Multiplier  5    2.31054E-03   0.00000E+00  Abs. Val.   2.31054E-03
+  14    73         Multiplier  6    4.32800E+02   0.00000E+00  Abs. Val.   4.32800E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    73        0   7.88342E-12   1.10688E-02   9.97958E-01   5.54677E-03   1.51282E-02   4.22468E+00  -1.50006E+00   0.00000E+00
+
+  14    73         Iterations   :   3
+  14    73         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    74   0        8.54303E-12   9.95475E-01
+  14    74   1        4.15317E-12   9.95467E-01
+  14    74   2        9.52790E-12   9.95467E-01
+  14    74   3        9.58730E-12   9.95467E-01
+
+  14    74         BP   Function    2.39131E-01
+  14    74         Multipliers:     Stable:   4
+  14    74         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    74         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    74         Multiplier  3    7.36095E-01   0.00000E+00  Abs. Val.   7.36095E-01
+  14    74         Multiplier  4    1.35852E+00   0.00000E+00  Abs. Val.   1.35852E+00
+  14    74         Multiplier  5    2.33069E-03   0.00000E+00  Abs. Val.   2.33069E-03
+  14    74         Multiplier  6    4.29057E+02   0.00000E+00  Abs. Val.   4.29057E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    74       40   9.58730E-12   1.08568E-02   9.98056E-01   6.41090E-03   1.48344E-02   4.22009E+00  -1.50006E+00   0.00000E+00
+
+  14    74         Iterations   :   3
+  14    74         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    75   0        1.12876E-11   9.95442E-01
+  14    75   1        1.17001E-11   9.95434E-01
+  14    75   2        1.16984E-11   9.95434E-01
+  14    75   3        1.16548E-11   9.95434E-01
+
+  14    75         BP   Function    2.85110E-01
+  14    75         Multipliers:     Stable:   4
+  14    75         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    75         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    75         Multiplier  3    6.99525E-01   0.00000E+00  Abs. Val.   6.99525E-01
+  14    75         Multiplier  4    1.42954E+00   0.00000E+00  Abs. Val.   1.42954E+00
+  14    75         Multiplier  5    2.35505E-03   0.00000E+00  Abs. Val.   2.35505E-03
+  14    75         Multiplier  6    4.24619E+02   0.00000E+00  Abs. Val.   4.24619E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    75        0   1.16548E-11   1.05984E-02   9.98171E-01   7.27726E-03   1.44729E-02   4.21467E+00  -1.50006E+00   0.00000E+00
+
+  14    75         Iterations   :   3
+  14    75         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    76   0        1.37178E-11   9.95404E-01
+  14    76   1       -1.40056E-11   9.95397E-01
+  14    76   2        1.42422E-11   9.95397E-01
+  14    76   3        1.41513E-11   9.95397E-01
+
+  14    76         BP   Function    3.29722E-01
+  14    76         Multipliers:     Stable:   4
+  14    76         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    76         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    76         Multiplier  3    6.68447E-01   0.00000E+00  Abs. Val.   6.68447E-01
+  14    76         Multiplier  4    1.49601E+00   0.00000E+00  Abs. Val.   1.49601E+00
+  14    76         Multiplier  5    2.38343E-03   0.00000E+00  Abs. Val.   2.38343E-03
+  14    76         Multiplier  6    4.19563E+02   0.00000E+00  Abs. Val.   4.19563E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    76       41   1.41513E-11   1.02942E-02   9.98300E-01   8.13621E-03   1.40495E-02   4.20852E+00  -1.50006E+00   0.00000E+00
+
+  14    76         Iterations   :   3
+  14    76         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    77   0        1.66423E-11   9.95363E-01
+  14    77   1        4.87423E-11   9.95356E-01
+  14    77   2        2.19391E-11   9.95356E-01
+  14    77   3        2.19392E-11   9.95356E-01
+
+  14    77         BP   Function    3.72392E-01
+  14    77         Multipliers:     Stable:   4
+  14    77         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    77         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    77         Multiplier  3    6.42800E-01   0.00000E+00  Abs. Val.   6.42800E-01
+  14    77         Multiplier  4    1.55569E+00   0.00000E+00  Abs. Val.   1.55569E+00
+  14    77         Multiplier  5    2.41560E-03   0.00000E+00  Abs. Val.   2.41560E-03
+  14    77         Multiplier  6    4.13976E+02   0.00000E+00  Abs. Val.   4.13976E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    77        0   2.19392E-11   9.94455E-03   9.98439E-01   8.98454E-03   1.35615E-02   4.20175E+00  -1.50007E+00   0.00000E+00
+
+  14    77         Iterations   :   3
+  14    77         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    78   0        2.97089E-11   9.95317E-01
+  14    78   1        3.44935E-11   9.95311E-01
+  14    78   2        3.45405E-11   9.95311E-01
+  14    78   3        3.45462E-11   9.95311E-01
+
+  14    78         BP   Function    4.12387E-01
+  14    78         Multipliers:     Stable:   4
+  14    78         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    78         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    78         Multiplier  3    6.22531E-01   0.00000E+00  Abs. Val.   6.22531E-01
+  14    78         Multiplier  4    1.60635E+00   0.00000E+00  Abs. Val.   1.60635E+00
+  14    78         Multiplier  5    2.45127E-03   0.00000E+00  Abs. Val.   2.45127E-03
+  14    78         Multiplier  6    4.07952E+02   0.00000E+00  Abs. Val.   4.07952E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    78       42   3.45462E-11   9.55027E-03   9.98586E-01   9.81721E-03   1.30168E-02   4.19450E+00  -1.50007E+00   0.00000E+00
+
+  14    78         Iterations   :   3
+  14    78         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    79   0        4.71225E-11   9.95269E-01
+  14    79   1        5.18893E-12   9.95264E-01
+  14    79   2        9.19324E-12   9.95264E-01
+  14    79   3        9.17323E-12   9.95264E-01
+
+  14    79         BP   Function    4.48802E-01
+  14    79         Multipliers:     Stable:   4
+  14    79         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    79         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    79         Multiplier  3    6.07606E-01   0.00000E+00  Abs. Val.   6.07606E-01
+  14    79         Multiplier  4    1.64580E+00   0.00000E+00  Abs. Val.   1.64580E+00
+  14    79         Multiplier  5    2.49008E-03   0.00000E+00  Abs. Val.   2.49008E-03
+  14    79         Multiplier  6    4.01593E+02   0.00000E+00  Abs. Val.   4.01593E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    79        0   9.17323E-12   9.11216E-03   9.98738E-01   1.06215E-02   1.24106E-02   4.18689E+00  -1.50008E+00   0.00000E+00
+
+  14    79         Iterations   :   3
+  14    79         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    80   0       -1.61351E-11   9.95219E-01
+  14    80   1        9.53502E-12   9.95214E-01
+  14    80   2        1.18957E-11   9.95215E-01
+  14    80   3        1.18916E-11   9.95215E-01
+
+  14    80         BP   Function    4.80552E-01
+  14    80         Multipliers:     Stable:   4
+  14    80         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    80         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    80         Multiplier  3    5.98030E-01   0.00000E+00  Abs. Val.   5.98030E-01
+  14    80         Multiplier  4    1.67216E+00   0.00000E+00  Abs. Val.   1.67216E+00
+  14    80         Multiplier  5    2.53161E-03   0.00000E+00  Abs. Val.   2.53161E-03
+  14    80         Multiplier  6    3.95005E+02   0.00000E+00  Abs. Val.   3.95005E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    80       43   1.18916E-11   8.63122E-03   9.98891E-01   1.13935E-02   1.17459E-02   4.17907E+00  -1.50008E+00   0.00000E+00
+
+  14    80         Iterations   :   3
+  14    80         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    81   0        1.46027E-11   9.95168E-01
+  14    81   1        1.55021E-11   9.95164E-01
+  14    81   2        1.55252E-11   9.95164E-01
+  14    81   3        1.55130E-11   9.95164E-01
+
+  14    81         BP   Function    5.06373E-01
+  14    81         Multipliers:     Stable:   4
+  14    81         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    81         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    81         Multiplier  3    5.93866E-01   0.00000E+00  Abs. Val.   5.93866E-01
+  14    81         Multiplier  4    1.68388E+00   0.00000E+00  Abs. Val.   1.68388E+00
+  14    81         Multiplier  5    2.57534E-03   0.00000E+00  Abs. Val.   2.57534E-03
+  14    81         Multiplier  6    3.88298E+02   0.00000E+00  Abs. Val.   3.88298E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    81        0   1.55130E-11   8.10865E-03   9.99043E-01   1.21338E-02   1.10247E-02   4.17118E+00  -1.50009E+00   0.00000E+00
+
+  14    81         Iterations   :   3
+  14    81         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    82   0        1.91242E-11   9.95116E-01
+  14    82   1       -1.62773E-11   9.95113E-01
+  14    82   2        1.09896E-11   9.95114E-01
+  14    82   3        1.10655E-11   9.95114E-01
+
+  14    82         BP   Function    5.24823E-01
+  14    82         Multipliers:     Stable:   4
+  14    82         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    82         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    82         Multiplier  3    5.95237E-01   0.00000E+00  Abs. Val.   5.95237E-01
+  14    82         Multiplier  4    1.68000E+00   0.00000E+00  Abs. Val.   1.68000E+00
+  14    82         Multiplier  5    2.62063E-03   0.00000E+00  Abs. Val.   2.62063E-03
+  14    82         Multiplier  6    3.81586E+02   0.00000E+00  Abs. Val.   3.81586E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    82       44   1.10655E-11   7.54591E-03   9.99192E-01   1.28269E-02   1.02533E-02   4.16335E+00  -1.50009E+00   0.00000E+00
+
+  14    82         Iterations   :   3
+  14    82         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    83   0        6.63117E-12   9.95065E-01
+  14    83   1        3.20419E-11   9.95063E-01
+  14    83   2        1.29886E-11   9.95064E-01
+  14    83   3        1.30013E-11   9.95064E-01
+
+  14    83         BP   Function    5.34314E-01
+  14    83         Multipliers:     Stable:   4
+  14    83         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    83         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    83         Multiplier  3    6.02339E-01   0.00000E+00  Abs. Val.   6.02339E-01
+  14    83         Multiplier  4    1.66019E+00   0.00000E+00  Abs. Val.   1.66019E+00
+  14    83         Multiplier  5    2.66677E-03   0.00000E+00  Abs. Val.   2.66677E-03
+  14    83         Multiplier  6    3.74984E+02   0.00000E+00  Abs. Val.   3.74984E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    83        0   1.30013E-11   6.94469E-03   9.99334E-01   1.34813E-02   9.42969E-03   4.15573E+00  -1.50010E+00   0.00000E+00
+
+  14    83         Iterations   :   3
+  14    83         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    84   0        1.49311E-11   9.95016E-01
+  14    84   1        1.51361E-11   9.95015E-01
+  14    84   2        1.50928E-11   9.95015E-01
+  14    84   3        1.51214E-11   9.95015E-01
+
+  14    84         BP   Function    5.33173E-01
+  14    84         Multipliers:     Stable:   4
+  14    84         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    84         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    84         Multiplier  3    6.15439E-01   0.00000E+00  Abs. Val.   6.15439E-01
+  14    84         Multiplier  4    1.62486E+00   0.00000E+00  Abs. Val.   1.62486E+00
+  14    84         Multiplier  5    2.71289E-03   0.00000E+00  Abs. Val.   2.71289E-03
+  14    84         Multiplier  6    3.68607E+02   0.00000E+00  Abs. Val.   3.68607E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    84       45   1.51214E-11   6.30702E-03   9.99469E-01   1.40782E-02   8.55719E-03   4.14845E+00  -1.50010E+00   0.00000E+00
+
+  14    84         Iterations   :   3
+  14    84         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    85   0        1.72345E-11   9.94970E-01
+  14    85   1        8.76126E-12   9.94969E-01
+  14    85   2        2.96871E-11   9.94970E-01
+  14    85   3        2.97053E-11   9.94970E-01
+  14    85   4        2.95803E-11   9.94970E-01
+
+  14    85         BP   Function    5.19738E-01
+  14    85         Multipliers:     Stable:   4
+  14    85         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    85         Multiplier  2    9.99999E-01   0.00000E+00  Abs. Val.   9.99999E-01
+  14    85         Multiplier  3    6.34870E-01   0.00000E+00  Abs. Val.   6.34870E-01
+  14    85         Multiplier  4    1.57513E+00   0.00000E+00  Abs. Val.   1.57513E+00
+  14    85         Multiplier  5    2.75802E-03   0.00000E+00  Abs. Val.   2.75802E-03
+  14    85         Multiplier  6    3.62574E+02   0.00000E+00  Abs. Val.   3.62574E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    85        0   2.95803E-11   5.63528E-03   9.99595E-01   1.46258E-02   7.63991E-03   4.14163E+00  -1.50011E+00   0.00000E+00
+
+  14    85         Iterations   :   4
+  14    85         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    86   0        4.39894E-11   9.94927E-01
+  14    86   1        4.53442E-11   9.94927E-01
+  14    86   2        3.81629E-11   9.94928E-01
+  14    86   3        3.81007E-11   9.94928E-01
+  14    86   4        3.80895E-11   9.94928E-01
+
+  14    86         BP   Function    4.92520E-01
+  14    86         Multipliers:     Stable:   4
+  14    86         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    86         Multiplier  2    9.99999E-01   0.00000E+00  Abs. Val.   9.99999E-01
+  14    86         Multiplier  3    6.61014E-01   0.00000E+00  Abs. Val.   6.61014E-01
+  14    86         Multiplier  4    1.51283E+00   0.00000E+00  Abs. Val.   1.51283E+00
+  14    86         Multiplier  5    2.80106E-03   0.00000E+00  Abs. Val.   2.80106E-03
+  14    86         Multiplier  6    3.56999E+02   0.00000E+00  Abs. Val.   3.56999E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    86       46   3.80895E-11   4.93222E-03   9.99709E-01   1.51085E-02   6.68334E-03   4.13541E+00  -1.50011E+00   0.00000E+00
+
+  14    86         Iterations   :   4
+  14    86         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    87   0        4.65680E-11   9.94888E-01
+  14    87   1        4.75115E-11   9.94889E-01
+  14    87   2        4.78366E-11   9.94890E-01
+  14    87   3        4.78158E-11   9.94890E-01
+  14    87   4        4.79447E-11   9.94890E-01
+
+  14    87         BP   Function    4.50409E-01
+  14    87         Multipliers:     Stable:   4
+  14    87         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    87         Multiplier  2    9.99999E-01   0.00000E+00  Abs. Val.   9.99999E-01
+  14    87         Multiplier  3    6.94276E-01   0.00000E+00  Abs. Val.   6.94276E-01
+  14    87         Multiplier  4    1.44035E+00   0.00000E+00  Abs. Val.   1.44035E+00
+  14    87         Multiplier  5    2.84084E-03   0.00000E+00  Abs. Val.   2.84084E-03
+  14    87         Multiplier  6    3.52000E+02   0.00000E+00  Abs. Val.   3.52000E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    87        0   4.79447E-11   4.20100E-03   9.99808E-01   1.55280E-02   5.68963E-03   4.12988E+00  -1.50011E+00   0.00000E+00
+
+  14    87         Iterations   :   4
+  14    87         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    88   0        5.77625E-11   9.94855E-01
+  14    88   1       -1.47356E-10   9.94856E-01
+  14    88   2        1.89372E-11   9.94857E-01
+  14    88   3        1.88803E-11   9.94857E-01
+  14    88   4        1.89415E-11   9.94857E-01
+
+  14    88         BP   Function    3.92927E-01
+  14    88         Multipliers:     Stable:   4
+  14    88         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    88         Multiplier  2    9.99998E-01   0.00000E+00  Abs. Val.   9.99998E-01
+  14    88         Multiplier  3    7.35034E-01   0.00000E+00  Abs. Val.   7.35034E-01
+  14    88         Multiplier  4    1.36048E+00   0.00000E+00  Abs. Val.   1.36048E+00
+  14    88         Multiplier  5    2.87615E-03   0.00000E+00  Abs. Val.   2.87615E-03
+  14    88         Multiplier  6    3.47667E+02   0.00000E+00  Abs. Val.   3.47667E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    88       47   1.89415E-11   3.44519E-03   9.99894E-01   1.58863E-02   4.66382E-03   4.12514E+00  -1.50012E+00   0.00000E+00
+
+  14    88         Iterations   :   4
+  14    88         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    89   0       -9.94746E-12   9.94827E-01
+  14    89   1        2.02151E-10   9.94829E-01
+  14    89   2        2.17693E-11   9.94830E-01
+  14    89   3        2.18543E-11   9.94830E-01
+  14    89   4        2.18452E-11   9.94830E-01
+
+  14    89         BP   Function    3.20483E-01
+  14    89         Multipliers:     Stable:   4
+  14    89         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    89         Multiplier  2    9.99997E-01   0.00000E+00  Abs. Val.   9.99997E-01
+  14    89         Multiplier  3    7.83579E-01   0.00000E+00  Abs. Val.   7.83579E-01
+  14    89         Multiplier  4    1.27620E+00   0.00000E+00  Abs. Val.   1.27620E+00
+  14    89         Multiplier  5    2.90580E-03   0.00000E+00  Abs. Val.   2.90580E-03
+  14    89         Multiplier  6    3.44096E+02   0.00000E+00  Abs. Val.   3.44096E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    89        0   2.18452E-11   2.66877E-03   9.99962E-01   1.61738E-02   3.61136E-03   4.12129E+00  -1.50012E+00   0.00000E+00
+
+  14    89         Iterations   :   4
+  14    89         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    90   0        2.47370E-11   9.94806E-01
+  14    90   1        2.42712E-11   9.94808E-01
+  14    90   2        2.43708E-11   9.94810E-01
+  14    90   3        2.43307E-11   9.94810E-01
+  14    90   4        2.43649E-11   9.94810E-01
+
+  14    90         BP   Function    2.34570E-01
+  14    90         Multipliers:     Stable:   4
+  14    90         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    90         Multiplier  2    9.99993E-01   0.00000E+00  Abs. Val.   9.99993E-01
+  14    90         Multiplier  3    8.40030E-01   0.00000E+00  Abs. Val.   8.40030E-01
+  14    90         Multiplier  4    1.19044E+00   0.00000E+00  Abs. Val.   1.19044E+00
+  14    90         Multiplier  5    2.92868E-03   0.00000E+00  Abs. Val.   2.92868E-03
+  14    90         Multiplier  6    3.41350E+02   0.00000E+00  Abs. Val.   3.41350E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    90       48   2.43649E-11   1.87608E-03   1.00001E+00   1.63877E-02   2.53792E-03   4.11839E+00  -1.50012E+00   0.00000E+00
+
+  14    90         Iterations   :   4
+  14    90         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    91   0        2.68741E-11   9.94792E-01
+  14    91   1        1.73632E-10   9.94794E-01
+  14    91   2        1.61692E-11   9.94797E-01
+  14    91   3        1.58432E-11   9.94797E-01
+  14    91   4        1.60090E-11   9.94797E-01
+
+  14    91         BP   Function    1.37853E-01
+  14    91         Multipliers:     Stable:   4
+  14    91         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    91         Multiplier  2    9.99973E-01   0.00000E+00  Abs. Val.   9.99973E-01
+  14    91         Multiplier  3    9.04246E-01   0.00000E+00  Abs. Val.   9.04246E-01
+  14    91         Multiplier  4    1.10592E+00   0.00000E+00  Abs. Val.   1.10592E+00
+  14    91         Multiplier  5    2.94326E-03   0.00000E+00  Abs. Val.   2.94326E-03
+  14    91         Multiplier  6    3.39413E+02   0.00000E+00  Abs. Val.   3.39413E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    91        0   1.60090E-11   1.07179E-03   1.00005E+00   1.65215E-02   1.44960E-03   4.11648E+00  -1.50012E+00   0.00000E+00
+
+  14    91         Iterations   :   4
+  14    91         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    92   0        7.68905E-12   9.94786E-01
+  14    92   1       -1.56248E-10   9.94776E-01
+  14    92   2        1.56802E-11   9.94791E-01
+  14    92   3        1.65033E-11   9.94791E-01
+  14    92   4        1.63432E-11   9.94791E-01
+
+  14    92         BP   Function    3.40908E-02
+  14    92         Multipliers:     Stable:   4
+  14    92         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    92         Multiplier  2    9.99985E-01   0.00000E+00  Abs. Val.   9.99985E-01
+  14    92         Multiplier  3    9.51288E-01   0.00000E+00  Abs. Val.   9.51288E-01
+  14    92         Multiplier  4    1.05124E+00   0.00000E+00  Abs. Val.   1.05124E+00
+  14    92         Multiplier  5    2.95086E-03   0.00000E+00  Abs. Val.   2.95086E-03
+  14    92         Multiplier  6    3.38883E+02   0.00000E+00  Abs. Val.   3.38883E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    92       49   1.63432E-11   2.60804E-04   1.00006E+00   1.65849E-02   3.52711E-04   4.11562E+00  -1.50012E+00   0.00000E+00
+
+  14    92         Iterations   :   4
+  14    92         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    93   0        1.66758E-11   9.94787E-01
+  14    93   1        1.64250E-11   9.94798E-01
+  14    93   2        1.63420E-11   9.94792E-01
+  14    93   3        1.64294E-11   9.94792E-01
+  14    93   4        1.61929E-11   9.94792E-01
+
+  14    93         BP   Function   -7.22497E-02
+ ==> Location of special point :  Iteration   0  Step size =  -1.06159E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    93   0        1.62945E-11   9.94791E-01
+  14    93   1        1.63025E-11   9.94788E-01
+  14    93   2        1.64448E-11   9.94790E-01
+  14    93   3        1.64433E-11   9.94790E-01
+  14    93   4        1.63350E-11   9.94790E-01
+
+  14    93         BP   Function   -2.98508E-04
+ ==> Location of special point :  Convergence.   Step size =  -4.36574E-06
+  14    93         Multipliers:     Stable:   5
+  14    93         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    93         Multiplier  2    9.99992E-01   4.09704E-03  Abs. Val.   1.00000E+00
+  14    93         Multiplier  3    9.99992E-01  -4.09704E-03  Abs. Val.   1.00000E+00
+  14    93         Multiplier  4    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    93         Multiplier  5    2.95124E-03   0.00000E+00  Abs. Val.   2.95124E-03
+  14    93         Multiplier  6    3.38703E+02   0.00000E+00  Abs. Val.   3.38703E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    93  BP   50   1.63350E-11   2.25033E-06   1.00006E+00   1.65889E-02   3.04340E-06   4.11557E+00  -1.50012E+00   3.38703E+02
+
+  14    93         Iterations   :   4
+  14    93         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    94   0        1.61258E-11   9.94793E-01
+  14    94   1        3.94357E-11   9.94794E-01
+  14    94   2        1.47814E-11   9.94794E-01
+  14    94   3        1.46664E-11   9.94794E-01
+
+  14    94         BP   Function   -1.06793E-01
+  14    94         Multipliers:     Stable:   4
+  14    94         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    94         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    94         Multiplier  3    9.26516E-01   0.00000E+00  Abs. Val.   9.26516E-01
+  14    94         Multiplier  4    1.07931E+00   0.00000E+00  Abs. Val.   1.07931E+00
+  14    94         Multiplier  5    2.94723E-03   0.00000E+00  Abs. Val.   2.94723E-03
+  14    94         Multiplier  6    3.39301E+02   0.00000E+00  Abs. Val.   3.39301E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    94       51   1.46664E-11   8.10855E-04   1.00005E+00   1.65525E-02   1.09661E-03   4.11609E+00  -1.50012E+00   0.00000E+00
+
+  14    94         Iterations   :   3
+  14    94         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    95   0        1.29979E-11   9.94800E-01
+  14    95   1       -1.30151E-10   9.94807E-01
+  14    95   2        1.45781E-11   9.94805E-01
+  14    95   3        1.46150E-11   9.94805E-01
+
+  14    95         BP   Function   -2.08156E-01
+  14    95         Multipliers:     Stable:   4
+  14    95         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    95         Multiplier  2    9.99993E-01   0.00000E+00  Abs. Val.   9.99993E-01
+  14    95         Multiplier  3    8.59892E-01   0.00000E+00  Abs. Val.   8.59892E-01
+  14    95         Multiplier  4    1.16294E+00   0.00000E+00  Abs. Val.   1.16294E+00
+  14    95         Multiplier  5    2.93449E-03   0.00000E+00  Abs. Val.   2.93449E-03
+  14    95         Multiplier  6    3.40660E+02   0.00000E+00  Abs. Val.   3.40660E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    95        0   1.46150E-11   1.61788E-03   1.00003E+00   1.64373E-02   2.18843E-03   4.11766E+00  -1.50012E+00   0.00000E+00
+
+  14    95         Iterations   :   3
+  14    95         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    96   0        1.45638E-11   9.94819E-01
+  14    96   1        1.47010E-11   9.94825E-01
+  14    96   2        1.43377E-11   9.94823E-01
+  14    96   3        1.41329E-11   9.94823E-01
+
+  14    96         BP   Function   -3.01954E-01
+  14    96         Multipliers:     Stable:   4
+  14    96         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    96         Multiplier  2    9.99997E-01   0.00000E+00  Abs. Val.   9.99997E-01
+  14    96         Multiplier  3    8.00906E-01   0.00000E+00  Abs. Val.   8.00906E-01
+  14    96         Multiplier  4    1.24859E+00   0.00000E+00  Abs. Val.   1.24859E+00
+  14    96         Multiplier  5    2.91397E-03   0.00000E+00  Abs. Val.   2.91397E-03
+  14    96         Multiplier  6    3.43125E+02   0.00000E+00  Abs. Val.   3.43125E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    96       52   1.41329E-11   2.41490E-03   9.99981E-01   1.62459E-02   3.26744E-03   4.12025E+00  -1.50012E+00   0.00000E+00
+
+  14    96         Iterations   :   3
+  14    96         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    97   0        1.36528E-11   9.94844E-01
+  14    97   1       -2.93640E-13   9.94849E-01
+  14    97   2        2.68630E-11   9.94848E-01
+  14    97   3        2.68511E-11   9.94848E-01
+
+  14    97         BP   Function   -3.83645E-01
+  14    97         Multipliers:     Stable:   4
+  14    97         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    97         Multiplier  2    9.99998E-01   0.00000E+00  Abs. Val.   9.99998E-01
+  14    97         Multiplier  3    7.49811E-01   0.00000E+00  Abs. Val.   7.49811E-01
+  14    97         Multiplier  4    1.33367E+00   0.00000E+00  Abs. Val.   1.33367E+00
+  14    97         Multiplier  5    2.88632E-03   0.00000E+00  Abs. Val.   2.88632E-03
+  14    97         Multiplier  6    3.46431E+02   0.00000E+00  Abs. Val.   3.46431E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    97        0   2.68511E-11   3.19714E-03   9.99917E-01   1.59858E-02   4.32745E-03   4.12380E+00  -1.50012E+00   0.00000E+00
+
+  14    97         Iterations   :   3
+  14    97         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    98   0        3.95153E-11   9.94875E-01
+  14    98   1        5.46227E-11   9.94880E-01
+  14    98   2        2.33888E-11   9.94879E-01
+  14    98   3        2.36199E-11   9.94879E-01
+
+  14    98         BP   Function   -4.50643E-01
+  14    98         Multipliers:     Stable:   4
+  14    98         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    98         Multiplier  2    9.99999E-01   0.00000E+00  Abs. Val.   9.99999E-01
+  14    98         Multiplier  3    7.06565E-01   0.00000E+00  Abs. Val.   7.06565E-01
+  14    98         Multiplier  4    1.41530E+00   0.00000E+00  Abs. Val.   1.41530E+00
+  14    98         Multiplier  5    2.85272E-03   0.00000E+00  Abs. Val.   2.85272E-03
+  14    98         Multiplier  6    3.50518E+02   0.00000E+00  Abs. Val.   3.50518E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    98       53   2.36199E-11   3.96014E-03   9.99837E-01   1.56548E-02   5.36252E-03   4.12826E+00  -1.50011E+00   0.00000E+00
+
+  14    98         Iterations   :   3
+  14    98         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14    99   0        2.04021E-11   9.94912E-01
+  14    99   1        2.00013E-11   9.94916E-01
+  14    99   2        2.02074E-11   9.94915E-01
+  14    99   3        2.00272E-11   9.94915E-01
+
+  14    99         BP   Function   -5.01603E-01
+  14    99         Multipliers:     Stable:   4
+  14    99         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14    99         Multiplier  2    9.99999E-01   0.00000E+00  Abs. Val.   9.99999E-01
+  14    99         Multiplier  3    6.70923E-01   0.00000E+00  Abs. Val.   6.70923E-01
+  14    99         Multiplier  4    1.49049E+00   0.00000E+00  Abs. Val.   1.49049E+00
+  14    99         Multiplier  5    2.81425E-03   0.00000E+00  Abs. Val.   2.81425E-03
+  14    99         Multiplier  6    3.55321E+02   0.00000E+00  Abs. Val.   3.55321E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14    99        0   2.00272E-11   4.69980E-03   9.99742E-01   1.52543E-02   6.36712E-03   4.13355E+00  -1.50011E+00   0.00000E+00
+
+  14    99         Iterations   :   3
+  14    99         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   100   0        1.64489E-11   9.94953E-01
+  14   100   1        1.78074E-11   9.94956E-01
+  14   100   2        1.29712E-11   9.94956E-01
+  14   100   3        1.30388E-11   9.94956E-01
+
+  14   100         BP   Function   -5.36334E-01
+  14   100         Multipliers:     Stable:   4
+  14   100         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   100         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   100         Multiplier  3    6.42528E-01   0.00000E+00  Abs. Val.   6.42528E-01
+  14   100         Multiplier  4    1.55635E+00   0.00000E+00  Abs. Val.   1.55635E+00
+  14   100         Multiplier  5    2.77215E-03   0.00000E+00  Abs. Val.   2.77215E-03
+  14   100         Multiplier  6    3.60726E+02   0.00000E+00  Abs. Val.   3.60726E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   100       54   1.30388E-11   5.41241E-03   9.99633E-01   1.47870E-02   7.33690E-03   4.13956E+00  -1.50011E+00   0.00000E+00
+
+  14   100         Iterations   :   3
+  14   100         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   101   0        6.07723E-12   9.94999E-01
+  14   101   1        2.07355E-11   9.95001E-01
+  14   101   2        9.37152E-12   9.95000E-01
+  14   101   3        9.39240E-12   9.95000E-01
+
+  14   101         BP   Function   -5.55585E-01
+  14   101         Multipliers:     Stable:   4
+  14   101         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   101         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   101         Multiplier  3    6.20978E-01   0.00000E+00  Abs. Val.   6.20978E-01
+  14   101         Multiplier  4    1.61036E+00   0.00000E+00  Abs. Val.   1.61036E+00
+  14   101         Multiplier  5    2.72755E-03   0.00000E+00  Abs. Val.   2.72755E-03
+  14   101         Multiplier  6    3.66626E+02   0.00000E+00  Abs. Val.   3.66626E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   101        0   9.39240E-12   6.09466E-03   9.99511E-01   1.42552E-02   8.26605E-03   4.14620E+00  -1.50010E+00   0.00000E+00
+
+  14   101         Iterations   :   3
+  14   101         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   102   0        5.75937E-12   9.95047E-01
+  14   102   1        6.63945E-12   9.95048E-01
+  14   102   2        6.69909E-12   9.95048E-01
+  14   102   3        6.54718E-12   9.95048E-01
+
+  14   102         BP   Function   -5.60759E-01
+  14   102         Multipliers:     Stable:   4
+  14   102         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   102         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   102         Multiplier  3    6.05880E-01   0.00000E+00  Abs. Val.   6.05880E-01
+  14   102         Multiplier  4    1.65049E+00   0.00000E+00  Abs. Val.   1.65049E+00
+  14   102         Multiplier  5    2.68164E-03   0.00000E+00  Abs. Val.   2.68164E-03
+  14   102         Multiplier  6    3.72905E+02   0.00000E+00  Abs. Val.   3.72905E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   102       55   6.54718E-12   6.74366E-03   9.99379E-01   1.36788E-02   9.15056E-03   4.15335E+00  -1.50010E+00   0.00000E+00
+
+  14   102         Iterations   :   3
+  14   102         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   103   0        3.71192E-12   9.95098E-01
+  14   103   1        5.16794E-11   9.95098E-01
+  14   103   2        1.10225E-11   9.95097E-01
+  14   103   3        1.11269E-11   9.95097E-01
+
+  14   103         BP   Function   -5.53641E-01
+  14   103         Multipliers:     Stable:   4
+  14   103         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   103         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   103         Multiplier  3    5.96882E-01   0.00000E+00  Abs. Val.   5.96882E-01
+  14   103         Multiplier  4    1.67537E+00   0.00000E+00  Abs. Val.   1.67537E+00
+  14   103         Multiplier  5    2.63540E-03   0.00000E+00  Abs. Val.   2.63540E-03
+  14   103         Multiplier  6    3.79448E+02   0.00000E+00  Abs. Val.   3.79448E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   103        0   1.11269E-11   7.35693E-03   9.99238E-01   1.30444E-02   9.99451E-03   4.16088E+00  -1.50009E+00   0.00000E+00
+
+  14   103         Iterations   :   3
+  14   103         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   104   0        1.56914E-11   9.95149E-01
+  14   104   1       -2.46116E-11   9.95148E-01
+  14   104   2        9.32224E-12   9.95148E-01
+  14   104   3        9.57284E-12   9.95148E-01
+
+  14   104         BP   Function   -5.36154E-01
+  14   104         Multipliers:     Stable:   4
+  14   104         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   104         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   104         Multiplier  3    5.93695E-01   0.00000E+00  Abs. Val.   5.93695E-01
+  14   104         Multiplier  4    1.68437E+00   0.00000E+00  Abs. Val.   1.68437E+00
+  14   104         Multiplier  5    2.58974E-03   0.00000E+00  Abs. Val.   2.58974E-03
+  14   104         Multiplier  6    3.86139E+02   0.00000E+00  Abs. Val.   3.86139E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   104       56   9.57284E-12   7.93232E-03   9.99091E-01   1.23577E-02   1.07837E-02   4.16865E+00  -1.50009E+00   0.00000E+00
+
+  14   104         Iterations   :   3
+  14   104         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   105   0        8.02367E-12   9.95201E-01
+  14   105   1        8.51385E-12   9.95199E-01
+  14   105   2        8.49487E-12   9.95198E-01
+  14   105   3        8.47434E-12   9.95198E-01
+
+  14   105         BP   Function   -5.10190E-01
+  14   105         Multipliers:     Stable:   4
+  14   105         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   105         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   105         Multiplier  3    5.96100E-01   0.00000E+00  Abs. Val.   5.96100E-01
+  14   105         Multiplier  4    1.67757E+00   0.00000E+00  Abs. Val.   1.67757E+00
+  14   105         Multiplier  5    2.54543E-03   0.00000E+00  Abs. Val.   2.54543E-03
+  14   105         Multiplier  6    3.92861E+02   0.00000E+00  Abs. Val.   3.92861E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   105        0   8.47434E-12   8.46803E-03   9.98939E-01   1.16372E-02   1.15184E-02   4.17654E+00  -1.50008E+00   0.00000E+00
+
+  14   105         Iterations   :   3
+  14   105         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   106   0        7.37915E-12   9.95251E-01
+  14   106   1        9.50727E-12   9.95248E-01
+  14   106   2        8.98331E-12   9.95248E-01
+  14   106   3        8.93310E-12   9.95248E-01
+
+  14   106         BP   Function   -4.77493E-01
+  14   106         Multipliers:     Stable:   4
+  14   106         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   106         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   106         Multiplier  3    6.03950E-01   0.00000E+00  Abs. Val.   6.03950E-01
+  14   106         Multiplier  4    1.65576E+00   0.00000E+00  Abs. Val.   1.65576E+00
+  14   106         Multiplier  5    2.50313E-03   0.00000E+00  Abs. Val.   2.50313E-03
+  14   106         Multiplier  6    3.99500E+02   0.00000E+00  Abs. Val.   3.99500E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   106       57   8.93310E-12   8.96253E-03   9.98787E-01   1.08696E-02   1.22005E-02   4.18440E+00  -1.50008E+00   0.00000E+00
+
+  14   106         Iterations   :   3
+  14   106         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   107   0        9.39055E-12   9.95300E-01
+  14   107   1        7.18361E-12   9.95297E-01
+  14   107   2        7.84523E-12   9.95296E-01
+  14   107   3        7.89177E-12   9.95296E-01
+
+  14   107         BP   Function   -4.39608E-01
+  14   107         Multipliers:     Stable:   4
+  14   107         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   107         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   107         Multiplier  3    6.17165E-01   0.00000E+00  Abs. Val.   6.17165E-01
+  14   107         Multiplier  4    1.62031E+00   0.00000E+00  Abs. Val.   1.62031E+00
+  14   107         Multiplier  5    2.46339E-03   0.00000E+00  Abs. Val.   2.46339E-03
+  14   107         Multiplier  6    4.05945E+02   0.00000E+00  Abs. Val.   4.05945E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   107        0   7.89177E-12   9.41456E-03   9.98634E-01   1.00785E-02   1.28274E-02   4.19209E+00  -1.50007E+00   0.00000E+00
+
+  14   107         Iterations   :   3
+  14   107         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   108   0        6.85327E-12   9.95347E-01
+  14   108   1        7.80444E-12   9.95342E-01
+  14   108   2        7.79439E-12   9.95342E-01
+  14   108   3        7.71824E-12   9.95342E-01
+
+  14   108         BP   Function   -3.97847E-01
+  14   108         Multipliers:     Stable:   4
+  14   108         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   108         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   108         Multiplier  3    6.35722E-01   0.00000E+00  Abs. Val.   6.35722E-01
+  14   108         Multiplier  4    1.57301E+00   0.00000E+00  Abs. Val.   1.57301E+00
+  14   108         Multiplier  5    2.42666E-03   0.00000E+00  Abs. Val.   2.42666E-03
+  14   108         Multiplier  6    4.12088E+02   0.00000E+00  Abs. Val.   4.12088E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   108       58   7.71824E-12   9.82303E-03   9.98486E-01   9.25430E-03   1.33952E-02   4.19947E+00  -1.50007E+00   0.00000E+00
+
+  14   108         Iterations   :   3
+  14   108         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   109   0        7.54515E-12   9.95390E-01
+  14   109   1       -5.30468E-12   9.95385E-01
+  14   109   2        5.23092E-12   9.95384E-01
+  14   109   3        5.24216E-12   9.95384E-01
+
+  14   109         BP   Function   -3.53300E-01
+  14   109         Multipliers:     Stable:   4
+  14   109         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   109         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   109         Multiplier  3    6.59642E-01   0.00000E+00  Abs. Val.   6.59642E-01
+  14   109         Multiplier  4    1.51597E+00   0.00000E+00  Abs. Val.   1.51597E+00
+  14   109         Multiplier  5    2.39334E-03   0.00000E+00  Abs. Val.   2.39334E-03
+  14   109         Multiplier  6    4.17826E+02   0.00000E+00  Abs. Val.   4.17826E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   109        0   5.24216E-12   1.01871E-02   9.98344E-01   8.40942E-03   1.38972E-02   4.20641E+00  -1.50007E+00   0.00000E+00
+
+  14   109         Iterations   :   3
+  14   109         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   110   0        2.77220E-12   9.95429E-01
+  14   110   1        1.47043E-11   9.95423E-01
+  14   110   2        4.83968E-12   9.95423E-01
+  14   110   3        4.86018E-12   9.95423E-01
+
+  14   110         BP   Function   -3.06840E-01
+  14   110         Multipliers:     Stable:   4
+  14   110         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   110         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   110         Multiplier  3    6.88977E-01   0.00000E+00  Abs. Val.   6.88977E-01
+  14   110         Multiplier  4    1.45143E+00   0.00000E+00  Abs. Val.   1.45143E+00
+  14   110         Multiplier  5    2.36371E-03   0.00000E+00  Abs. Val.   2.36371E-03
+  14   110         Multiplier  6    4.23063E+02   0.00000E+00  Abs. Val.   4.23063E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   110       59   4.86018E-12   1.05060E-02   9.98211E-01   7.55333E-03   1.43445E-02   4.21277E+00  -1.50006E+00   0.00000E+00
+
+  14   110         Iterations   :   3
+  14   110         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   111   0        4.47910E-12   9.95464E-01
+  14   111   1        4.85926E-12   9.95457E-01
+  14   111   2        4.84375E-12   9.95457E-01
+  14   111   3        4.85111E-12   9.95457E-01
+
+  14   111         BP   Function   -2.59150E-01
+  14   111         Multipliers:     Stable:   4
+  14   111         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   111         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   111         Multiplier  3    7.23786E-01   0.00000E+00  Abs. Val.   7.23786E-01
+  14   111         Multiplier  4    1.38162E+00   0.00000E+00  Abs. Val.   1.38162E+00
+  14   111         Multiplier  5    2.33804E-03   0.00000E+00  Abs. Val.   2.33804E-03
+  14   111         Multiplier  6    4.27708E+02   0.00000E+00  Abs. Val.   4.27708E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   111        0   4.85111E-12   1.07791E-02   9.98091E-01   6.68815E-03   1.47257E-02   4.21844E+00  -1.50006E+00   0.00000E+00
+
+  14   111         Iterations   :   3
+  14   111         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   112   0        4.84205E-12   9.95493E-01
+  14   112   1        3.10968E-12   9.95486E-01
+  14   112   2        5.94519E-12   9.95486E-01
+  14   112   3        5.95918E-12   9.95486E-01
+
+  14   112         BP   Function   -2.10739E-01
+  14   112         Multipliers:     Stable:   4
+  14   112         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   112         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   112         Multiplier  3    7.64113E-01   0.00000E+00  Abs. Val.   7.64113E-01
+  14   112         Multiplier  4    1.30871E+00   0.00000E+00  Abs. Val.   1.30871E+00
+  14   112         Multiplier  5    2.31652E-03   0.00000E+00  Abs. Val.   2.31652E-03
+  14   112         Multiplier  6    4.31682E+02   0.00000E+00  Abs. Val.   4.31682E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   112       60   5.95918E-12   1.10060E-02   9.97987E-01   5.82163E-03   1.50426E-02   4.22330E+00  -1.50006E+00   0.00000E+00
+
+  14   112         Iterations   :   3
+  14   112         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   113   0        7.06482E-12   9.95517E-01
+  14   113   1        9.61874E-12   9.95510E-01
+  14   113   2        5.41782E-12   9.95509E-01
+  14   113   3        5.41790E-12   9.95509E-01
+
+  14   113         BP   Function   -1.61973E-01
+  14   113         Multipliers:     Stable:   4
+  14   113         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   113         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   113         Multiplier  3    8.09961E-01   0.00000E+00  Abs. Val.   8.09961E-01
+  14   113         Multiplier  4    1.23463E+00   0.00000E+00  Abs. Val.   1.23463E+00
+  14   113         Multiplier  5    2.29930E-03   0.00000E+00  Abs. Val.   2.29930E-03
+  14   113         Multiplier  6    4.34915E+02   0.00000E+00  Abs. Val.   4.34915E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   113        0   5.41790E-12   1.11862E-02   9.97901E-01   4.96491E-03   1.52947E-02   4.22727E+00  -1.50005E+00   0.00000E+00
+
+  14   113         Iterations   :   3
+  14   113         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   114   0        4.87777E-12   9.95535E-01
+  14   114   1        5.10273E-12   9.95528E-01
+  14   114   2        5.20371E-12   9.95527E-01
+  14   114   3        5.21021E-12   9.95527E-01
+
+  14   114         BP   Function   -1.13096E-01
+  14   114         Multipliers:     Stable:   4
+  14   114         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   114         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   114         Multiplier  3    8.61260E-01   0.00000E+00  Abs. Val.   8.61260E-01
+  14   114         Multiplier  4    1.16109E+00   0.00000E+00  Abs. Val.   1.16109E+00
+  14   114         Multiplier  5    2.28650E-03   0.00000E+00  Abs. Val.   2.28650E-03
+  14   114         Multiplier  6    4.37349E+02   0.00000E+00  Abs. Val.   4.37349E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   114       61   5.21021E-12   1.13195E-02   9.97835E-01   4.12760E-03   1.54773E-02   4.23027E+00  -1.50005E+00   0.00000E+00
+
+  14   114         Iterations   :   3
+  14   114         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   115   0        5.00296E-12   9.95547E-01
+  14   115   1        8.84481E-12   9.95540E-01
+  14   115   2        7.08694E-12   9.95539E-01
+  14   115   3        7.05397E-12   9.95539E-01
+  14   115   4        7.09217E-12   9.95539E-01
+
+  14   115         BP   Function   -6.42585E-02
+  14   115         Multipliers:     Stable:   4
+  14   115         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   115         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   115         Multiplier  3    9.17832E-01   0.00000E+00  Abs. Val.   9.17832E-01
+  14   115         Multiplier  4    1.08952E+00   0.00000E+00  Abs. Val.   1.08952E+00
+  14   115         Multiplier  5    2.27820E-03   0.00000E+00  Abs. Val.   2.27820E-03
+  14   115         Multiplier  6    4.38943E+02   0.00000E+00  Abs. Val.   4.38943E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   115        0   7.09217E-12   1.14056E-02   9.97792E-01   3.31944E-03   1.56016E-02   4.23223E+00  -1.50005E+00   0.00000E+00
+
+  14   115         Iterations   :   4
+  14   115         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   116   0        8.97026E-12   9.95553E-01
+  14   116   1        5.57121E-12   9.95548E-01
+  14   116   2        7.51051E-12   9.95544E-01
+  14   116   3        7.51505E-12   9.95544E-01
+  14   116   4        7.52522E-12   9.95544E-01
+
+  14   116         BP   Function   -1.55460E-02
+  14   116         Multipliers:     Stable:   4
+  14   116         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   116         Multiplier  2    9.99986E-01   0.00000E+00  Abs. Val.   9.99986E-01
+  14   116         Multiplier  3    9.79300E-01   0.00000E+00  Abs. Val.   9.79300E-01
+  14   116         Multiplier  4    1.02115E+00   0.00000E+00  Abs. Val.   1.02115E+00
+  14   116         Multiplier  5    2.27446E-03   0.00000E+00  Abs. Val.   2.27446E-03
+  14   116         Multiplier  6    4.39666E+02   0.00000E+00  Abs. Val.   4.39666E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   116       62   7.52522E-12   1.14445E-02   9.97771E-01   2.55315E-03   1.56520E-02   4.23313E+00  -1.50005E+00   0.00000E+00
+
+  14   116         Iterations   :   4
+  14   116         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   117   0        7.95740E-12   9.95552E-01
+  14   117   1        8.07087E-12   9.95541E-01
+  14   117   2        8.01213E-12   9.95543E-01
+  14   117   3        8.02043E-12   9.95543E-01
+  14   117   4        8.02664E-12   9.95543E-01
+
+  14   117         BP   Function    3.29947E-02
+ ==> Location of special point :  Iteration   0  Step size =  -1.06208E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   117   0        7.68650E-12   9.95543E-01
+  14   117   1        7.68512E-12   9.95546E-01
+  14   117   2        7.67298E-12   9.95544E-01
+  14   117   3        7.67062E-12   9.95544E-01
+  14   117   4        7.65994E-12   9.95544E-01
+
+  14   117         BP   Function    8.90193E-05
+ ==> Location of special point :  Convergence.   Step size =  -2.85679E-06
+  14   117         Multipliers:     Stable:   4
+  14   117         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   117         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   117         Multiplier  3    9.96784E-01   0.00000E+00  Abs. Val.   9.96784E-01
+  14   117         Multiplier  4    1.00323E+00   0.00000E+00  Abs. Val.   1.00323E+00
+  14   117         Multiplier  5    2.27423E-03   0.00000E+00  Abs. Val.   2.27423E-03
+  14   117         Multiplier  6    4.39710E+02   0.00000E+00  Abs. Val.   4.39710E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   117  BP   63   7.65994E-12   1.14469E-02   9.97770E-01   2.31882E-03   1.56573E-02   4.23318E+00  -1.50005E+00   0.00000E+00
+
+  14   117         Iterations   :   4
+  14   117         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   118   0        8.19938E-12   9.95542E-01
+  14   118   1        6.20823E-12   9.95541E-01
+  14   118   2        6.05748E-12   9.95541E-01
+  14   118   3        6.04985E-12   9.95541E-01
+
+  14   118         BP   Function    4.86495E-02
+  14   118         Multipliers:     Stable:   4
+  14   118         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   118         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   118         Multiplier  3    9.37001E-01   0.00000E+00  Abs. Val.   9.37001E-01
+  14   118         Multiplier  4    1.06723E+00   0.00000E+00  Abs. Val.   1.06723E+00
+  14   118         Multiplier  5    2.27650E-03   0.00000E+00  Abs. Val.   2.27650E-03
+  14   118         Multiplier  6    4.39270E+02   0.00000E+00  Abs. Val.   4.39270E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   118       64   6.04985E-12   1.14232E-02   9.97783E-01   3.06946E-03   1.56235E-02   4.23264E+00  -1.50005E+00   0.00000E+00
+
+  14   118         Iterations   :   3
+  14   118         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   119   0        4.43985E-12   9.95540E-01
+  14   119   1        5.93858E-12   9.95531E-01
+  14   119   2        7.49131E-12   9.95531E-01
+  14   119   3        7.50464E-12   9.95531E-01
+
+  14   119         BP   Function    9.67234E-02
+  14   119         Multipliers:     Stable:   4
+  14   119         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   119         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   119         Multiplier  3    8.78803E-01   0.00000E+00  Abs. Val.   8.78803E-01
+  14   119         Multiplier  4    1.13791E+00   0.00000E+00  Abs. Val.   1.13791E+00
+  14   119         Multiplier  5    2.28335E-03   0.00000E+00  Abs. Val.   2.28335E-03
+  14   119         Multiplier  6    4.37953E+02   0.00000E+00  Abs. Val.   4.37953E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   119        0   7.50464E-12   1.13522E-02   9.97818E-01   3.86594E-03   1.55275E-02   4.23101E+00  -1.50005E+00   0.00000E+00
+
+  14   119         Iterations   :   3
+  14   119         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   120   0        8.95648E-12   9.95524E-01
+  14   120   1        9.93353E-12   9.95515E-01
+  14   120   2        9.90758E-12   9.95516E-01
+  14   120   3        9.90371E-12   9.95516E-01
+
+  14   120         BP   Function    1.44680E-01
+  14   120         Multipliers:     Stable:   4
+  14   120         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   120         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   120         Multiplier  3    8.25792E-01   0.00000E+00  Abs. Val.   8.25792E-01
+  14   120         Multiplier  4    1.21096E+00   0.00000E+00  Abs. Val.   1.21096E+00
+  14   120         Multiplier  5    2.29472E-03   0.00000E+00  Abs. Val.   2.29472E-03
+  14   120         Multiplier  6    4.35783E+02   0.00000E+00  Abs. Val.   4.35783E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   120       65   9.90371E-12   1.12340E-02   9.97877E-01   4.69525E-03   1.53614E-02   4.22834E+00  -1.50005E+00   0.00000E+00
+
+  14   120         Iterations   :   3
+  14   120         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   121   0        1.22979E-11   9.95503E-01
+  14   121   1        9.56847E-12   9.95494E-01
+  14   121   2        6.61983E-12   9.95494E-01
+  14   121   3        6.61836E-12   9.95494E-01
+
+  14   121         BP   Function    1.92218E-01
+  14   121         Multipliers:     Stable:   4
+  14   121         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   121         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   121         Multiplier  3    7.78189E-01   0.00000E+00  Abs. Val.   7.78189E-01
+  14   121         Multiplier  4    1.28503E+00   0.00000E+00  Abs. Val.   1.28503E+00
+  14   121         Multiplier  5    2.31053E-03   0.00000E+00  Abs. Val.   2.31053E-03
+  14   121         Multiplier  6    4.32800E+02   0.00000E+00  Abs. Val.   4.32800E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   121        0   6.61836E-12   1.10688E-02   9.97957E-01   5.54403E-03   1.51301E-02   4.22468E+00  -1.50006E+00   0.00000E+00
+
+  14   121         Iterations   :   3
+  14   121         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   122   0        3.33983E-12   9.95475E-01
+  14   122   1        5.56488E-12   9.95467E-01
+  14   122   2        7.38135E-12   9.95467E-01
+  14   122   3        7.35756E-12   9.95467E-01
+
+  14   122         BP   Function    2.39131E-01
+  14   122         Multipliers:     Stable:   4
+  14   122         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   122         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   122         Multiplier  3    7.36095E-01   0.00000E+00  Abs. Val.   7.36095E-01
+  14   122         Multiplier  4    1.35852E+00   0.00000E+00  Abs. Val.   1.35852E+00
+  14   122         Multiplier  5    2.33069E-03   0.00000E+00  Abs. Val.   2.33069E-03
+  14   122         Multiplier  6    4.29057E+02   0.00000E+00  Abs. Val.   4.29057E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   122       66   7.35756E-12   1.08568E-02   9.98055E-01   6.40901E-03   1.48298E-02   4.22009E+00  -1.50006E+00   0.00000E+00
+
+  14   122         Iterations   :   3
+  14   122         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   123   0        8.09518E-12   9.95442E-01
+  14   123   1        8.26234E-12   9.95434E-01
+  14   123   2        8.29458E-12   9.95434E-01
+  14   123   3        8.28889E-12   9.95434E-01
+
+  14   123         BP   Function    2.85110E-01
+  14   123         Multipliers:     Stable:   4
+  14   123         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   123         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   123         Multiplier  3    6.99525E-01   0.00000E+00  Abs. Val.   6.99525E-01
+  14   123         Multiplier  4    1.42954E+00   0.00000E+00  Abs. Val.   1.42954E+00
+  14   123         Multiplier  5    2.35505E-03   0.00000E+00  Abs. Val.   2.35505E-03
+  14   123         Multiplier  6    4.24619E+02   0.00000E+00  Abs. Val.   4.24619E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   123        0   8.28889E-12   1.05984E-02   9.98172E-01   7.27590E-03   1.44732E-02   4.21467E+00  -1.50006E+00   0.00000E+00
+
+  14   123         Iterations   :   3
+  14   123         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   124   0        9.21820E-12   9.95404E-01
+  14   124   1        2.33276E-11   9.95397E-01
+  14   124   2        5.51522E-12   9.95397E-01
+  14   124   3        5.56386E-12   9.95397E-01
+
+  14   124         BP   Function    3.29722E-01
+  14   124         Multipliers:     Stable:   4
+  14   124         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   124         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   124         Multiplier  3    6.68446E-01   0.00000E+00  Abs. Val.   6.68446E-01
+  14   124         Multiplier  4    1.49601E+00   0.00000E+00  Abs. Val.   1.49601E+00
+  14   124         Multiplier  5    2.38343E-03   0.00000E+00  Abs. Val.   2.38343E-03
+  14   124         Multiplier  6    4.19563E+02   0.00000E+00  Abs. Val.   4.19563E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   124       67   5.56386E-12   1.02942E-02   9.98300E-01   8.13723E-03   1.40470E-02   4.20852E+00  -1.50006E+00   0.00000E+00
+
+  14   124         Iterations   :   3
+  14   124         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   125   0        2.84495E-12   9.95363E-01
+  14   125   1       -1.10074E-11   9.95356E-01
+  14   125   2        4.89990E-12   9.95356E-01
+  14   125   3        4.92061E-12   9.95356E-01
+
+  14   125         BP   Function    3.72392E-01
+  14   125         Multipliers:     Stable:   4
+  14   125         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   125         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   125         Multiplier  3    6.42800E-01   0.00000E+00  Abs. Val.   6.42800E-01
+  14   125         Multiplier  4    1.55569E+00   0.00000E+00  Abs. Val.   1.55569E+00
+  14   125         Multiplier  5    2.41560E-03   0.00000E+00  Abs. Val.   2.41560E-03
+  14   125         Multiplier  6    4.13976E+02   0.00000E+00  Abs. Val.   4.13976E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   125        0   4.92061E-12   9.94455E-03   9.98439E-01   8.98415E-03   1.35627E-02   4.20175E+00  -1.50007E+00   0.00000E+00
+
+  14   125         Iterations   :   3
+  14   125         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   126   0        4.27888E-12   9.95317E-01
+  14   126   1        3.26326E-12   9.95311E-01
+  14   126   2        3.37385E-12   9.95311E-01
+  14   126   3        3.33638E-12   9.95311E-01
+
+  14   126         BP   Function    4.12387E-01
+  14   126         Multipliers:     Stable:   4
+  14   126         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   126         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   126         Multiplier  3    6.22531E-01   0.00000E+00  Abs. Val.   6.22531E-01
+  14   126         Multiplier  4    1.60635E+00   0.00000E+00  Abs. Val.   1.60635E+00
+  14   126         Multiplier  5    2.45127E-03   0.00000E+00  Abs. Val.   2.45127E-03
+  14   126         Multiplier  6    4.07952E+02   0.00000E+00  Abs. Val.   4.07952E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   126       68   3.33638E-12   9.55027E-03   9.98586E-01   9.81613E-03   1.30170E-02   4.19450E+00  -1.50007E+00   0.00000E+00
+
+  14   126         Iterations   :   3
+  14   126         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   127   0        1.75601E-12   9.95269E-01
+  14   127   1        2.55201E-11   9.95264E-01
+  14   127   2        1.44502E-11   9.95264E-01
+  14   127   3        1.43604E-11   9.95264E-01
+
+  14   127         BP   Function    4.48802E-01
+  14   127         Multipliers:     Stable:   4
+  14   127         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   127         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   127         Multiplier  3    6.07606E-01   0.00000E+00  Abs. Val.   6.07606E-01
+  14   127         Multiplier  4    1.64580E+00   0.00000E+00  Abs. Val.   1.64580E+00
+  14   127         Multiplier  5    2.49008E-03   0.00000E+00  Abs. Val.   2.49008E-03
+  14   127         Multiplier  6    4.01593E+02   0.00000E+00  Abs. Val.   4.01593E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   127        0   1.43604E-11   9.11216E-03   9.98738E-01   1.06222E-02   1.24104E-02   4.18689E+00  -1.50008E+00   0.00000E+00
+
+  14   127         Iterations   :   3
+  14   127         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   128   0        2.53564E-11   9.95219E-01
+  14   128   1        1.43343E-11   9.95214E-01
+  14   128   2        2.03809E-11   9.95215E-01
+  14   128   3        2.04151E-11   9.95215E-01
+
+  14   128         BP   Function    4.80552E-01
+  14   128         Multipliers:     Stable:   4
+  14   128         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   128         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   128         Multiplier  3    5.98030E-01   0.00000E+00  Abs. Val.   5.98030E-01
+  14   128         Multiplier  4    1.67216E+00   0.00000E+00  Abs. Val.   1.67216E+00
+  14   128         Multiplier  5    2.53161E-03   0.00000E+00  Abs. Val.   2.53161E-03
+  14   128         Multiplier  6    3.95005E+02   0.00000E+00  Abs. Val.   3.95005E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   128       69   2.04151E-11   8.63122E-03   9.98891E-01   1.13936E-02   1.17446E-02   4.17907E+00  -1.50008E+00   0.00000E+00
+
+  14   128         Iterations   :   3
+  14   128         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   129   0        2.64535E-11   9.95168E-01
+  14   129   1        2.90351E-11   9.95164E-01
+  14   129   2        2.90235E-11   9.95164E-01
+  14   129   3        2.90599E-11   9.95164E-01
+
+  14   129         BP   Function    5.06373E-01
+  14   129         Multipliers:     Stable:   4
+  14   129         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   129         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   129         Multiplier  3    5.93866E-01   0.00000E+00  Abs. Val.   5.93866E-01
+  14   129         Multiplier  4    1.68388E+00   0.00000E+00  Abs. Val.   1.68388E+00
+  14   129         Multiplier  5    2.57534E-03   0.00000E+00  Abs. Val.   2.57534E-03
+  14   129         Multiplier  6    3.88298E+02   0.00000E+00  Abs. Val.   3.88298E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   129        0   2.90599E-11   8.10865E-03   9.99043E-01   1.21336E-02   1.10262E-02   4.17118E+00  -1.50009E+00   0.00000E+00
+
+  14   129         Iterations   :   3
+  14   129         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   130   0        3.76805E-11   9.95116E-01
+  14   130   1       -6.28995E-12   9.95113E-01
+  14   130   2        7.94316E-12   9.95114E-01
+  14   130   3        7.91839E-12   9.95114E-01
+
+  14   130         BP   Function    5.24823E-01
+  14   130         Multipliers:     Stable:   4
+  14   130         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   130         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   130         Multiplier  3    5.95237E-01   0.00000E+00  Abs. Val.   5.95237E-01
+  14   130         Multiplier  4    1.68000E+00   0.00000E+00  Abs. Val.   1.68000E+00
+  14   130         Multiplier  5    2.62064E-03   0.00000E+00  Abs. Val.   2.62064E-03
+  14   130         Multiplier  6    3.81586E+02   0.00000E+00  Abs. Val.   3.81586E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   130       70   7.91839E-12   7.54591E-03   9.99192E-01   1.28274E-02   1.02517E-02   4.16335E+00  -1.50009E+00   0.00000E+00
+
+  14   130         Iterations   :   3
+  14   130         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   131   0       -1.31607E-11   9.95065E-01
+  14   131   1        2.29531E-11   9.95063E-01
+  14   131   2        8.07953E-12   9.95064E-01
+  14   131   3        8.09269E-12   9.95064E-01
+
+  14   131         BP   Function    5.34314E-01
+  14   131         Multipliers:     Stable:   4
+  14   131         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   131         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   131         Multiplier  3    6.02339E-01   0.00000E+00  Abs. Val.   6.02339E-01
+  14   131         Multiplier  4    1.66019E+00   0.00000E+00  Abs. Val.   1.66019E+00
+  14   131         Multiplier  5    2.66677E-03   0.00000E+00  Abs. Val.   2.66677E-03
+  14   131         Multiplier  6    3.74984E+02   0.00000E+00  Abs. Val.   3.74984E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   131        0   8.09269E-12   6.94469E-03   9.99335E-01   1.34793E-02   9.42931E-03   4.15573E+00  -1.50010E+00   0.00000E+00
+
+  14   131         Iterations   :   3
+  14   131         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   132   0        8.26645E-12   9.95016E-01
+  14   132   1        7.66738E-12   9.95015E-01
+  14   132   2        7.44119E-12   9.95015E-01
+  14   132   3        7.53962E-12   9.95015E-01
+
+  14   132         BP   Function    5.33173E-01
+  14   132         Multipliers:     Stable:   4
+  14   132         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   132         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   132         Multiplier  3    6.15439E-01   0.00000E+00  Abs. Val.   6.15439E-01
+  14   132         Multiplier  4    1.62486E+00   0.00000E+00  Abs. Val.   1.62486E+00
+  14   132         Multiplier  5    2.71289E-03   0.00000E+00  Abs. Val.   2.71289E-03
+  14   132         Multiplier  6    3.68609E+02   0.00000E+00  Abs. Val.   3.68609E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   132       71   7.53962E-12   6.30702E-03   9.99469E-01   1.40811E-02   8.55769E-03   4.14845E+00  -1.50010E+00   0.00000E+00
+
+  14   132         Iterations   :   3
+  14   132         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   133   0        6.98837E-12   9.94970E-01
+  14   133   1        7.52576E-12   9.94969E-01
+  14   133   2        1.54719E-11   9.94970E-01
+  14   133   3        1.53464E-11   9.94970E-01
+  14   133   4        1.53887E-11   9.94970E-01
+
+  14   133         BP   Function    5.19738E-01
+  14   133         Multipliers:     Stable:   4
+  14   133         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   133         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   133         Multiplier  3    6.34870E-01   0.00000E+00  Abs. Val.   6.34870E-01
+  14   133         Multiplier  4    1.57513E+00   0.00000E+00  Abs. Val.   1.57513E+00
+  14   133         Multiplier  5    2.75802E-03   0.00000E+00  Abs. Val.   2.75802E-03
+  14   133         Multiplier  6    3.62578E+02   0.00000E+00  Abs. Val.   3.62578E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   133        0   1.53887E-11   5.63528E-03   9.99595E-01   1.46189E-02   7.64109E-03   4.14163E+00  -1.50011E+00   0.00000E+00
+
+  14   133         Iterations   :   4
+  14   133         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   134   0        2.32107E-11   9.94927E-01
+  14   134   1        1.93088E-11   9.94927E-01
+  14   134   2        1.84586E-11   9.94928E-01
+  14   134   3        1.83814E-11   9.94928E-01
+  14   134   4        1.84038E-11   9.94928E-01
+
+  14   134         BP   Function    4.92520E-01
+  14   134         Multipliers:     Stable:   4
+  14   134         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   134         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   134         Multiplier  3    6.61014E-01   0.00000E+00  Abs. Val.   6.61014E-01
+  14   134         Multiplier  4    1.51283E+00   0.00000E+00  Abs. Val.   1.51283E+00
+  14   134         Multiplier  5    2.80106E-03   0.00000E+00  Abs. Val.   2.80106E-03
+  14   134         Multiplier  6    3.57005E+02   0.00000E+00  Abs. Val.   3.57005E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   134       72   1.84038E-11   4.93222E-03   9.99709E-01   1.51097E-02   6.68342E-03   4.13541E+00  -1.50011E+00   0.00000E+00
+
+  14   134         Iterations   :   4
+  14   134         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   135   0        2.14080E-11   9.94888E-01
+  14   135   1        2.15012E-11   9.94889E-01
+  14   135   2        2.16260E-11   9.94890E-01
+  14   135   3        2.15583E-11   9.94890E-01
+  14   135   4        2.15648E-11   9.94890E-01
+
+  14   135         BP   Function    4.50409E-01
+  14   135         Multipliers:     Stable:   4
+  14   135         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   135         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   135         Multiplier  3    6.94275E-01   0.00000E+00  Abs. Val.   6.94275E-01
+  14   135         Multiplier  4    1.44035E+00   0.00000E+00  Abs. Val.   1.44035E+00
+  14   135         Multiplier  5    2.84086E-03   0.00000E+00  Abs. Val.   2.84086E-03
+  14   135         Multiplier  6    3.52002E+02   0.00000E+00  Abs. Val.   3.52002E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   135        0   2.15648E-11   4.20100E-03   9.99808E-01   1.55336E-02   5.68900E-03   4.12988E+00  -1.50011E+00   0.00000E+00
+
+  14   135         Iterations   :   4
+  14   135         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   136   0        2.47139E-11   9.94855E-01
+  14   136   1        1.03661E-10   9.94856E-01
+  14   136   2        2.80508E-11   9.94857E-01
+  14   136   3        2.78939E-11   9.94857E-01
+  14   136   4        2.79430E-11   9.94857E-01
+
+  14   136         BP   Function    3.92927E-01
+  14   136         Multipliers:     Stable:   4
+  14   136         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   136         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   136         Multiplier  3    7.35032E-01   0.00000E+00  Abs. Val.   7.35032E-01
+  14   136         Multiplier  4    1.36048E+00   0.00000E+00  Abs. Val.   1.36048E+00
+  14   136         Multiplier  5    2.87626E-03   0.00000E+00  Abs. Val.   2.87626E-03
+  14   136         Multiplier  6    3.47679E+02   0.00000E+00  Abs. Val.   3.47679E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   136       73   2.79430E-11   3.44519E-03   9.99894E-01   1.58818E-02   4.66361E-03   4.12514E+00  -1.50012E+00   0.00000E+00
+
+  14   136         Iterations   :   4
+  14   136         Next Step    :   1.56250E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+  14   137   0        3.42960E-11   9.94827E-01
+  14   137   1       -4.97189E-11   9.94829E-01
+  14   137   2        3.30700E-11   9.94830E-01
+  14   137   3        3.33568E-11   9.94830E-01
+  14   137   4        3.32950E-11   9.94830E-01
+
+  14   137         BP   Function    3.20483E-01
+  14   137         Multipliers:     Stable:   4
+  14   137         Multiplier  1    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   137         Multiplier  2    1.00000E+00   0.00000E+00  Abs. Val.   1.00000E+00
+  14   137         Multiplier  3    7.83575E-01   0.00000E+00  Abs. Val.   7.83575E-01
+  14   137         Multiplier  4    1.27619E+00   0.00000E+00  Abs. Val.   1.27619E+00
+  14   137         Multiplier  5    2.90596E-03   0.00000E+00  Abs. Val.   2.90596E-03
+  14   137         Multiplier  6    3.44120E+02   0.00000E+00  Abs. Val.   3.44120E+02
+
+  BR    PT  TY  LAB     lambda      L2-NORM z       MAX x         MAX y         MAX z         PERIOD          E             fm      
+ -14   137  EP   74   3.32950E-11   2.66877E-03   9.99962E-01   1.61709E-02   3.61134E-03   4.12129E+00  -1.50012E+00   0.00000E+00
+===============================================
+
+ Total Time    0.776E+00
