@@ -1,0 +1,32 @@
+# Скрипт для расчета основных семейств приодических орбит около точки либрации L1 системы Солнце - Земля
+#==============
+# AUTO Demo r3b
+#==============
+
+# mass ratio
+mu = 3.001348389698916e-06
+
+print "\n***Compute libration points"
+r1=run('r3b',UZR={'mu':mu})
+save('cr3')
+#print(r1(13)) #point L1
+
+print "\n***Lagrange family L1***"
+print(r1(13))
+L1=run(r1(13),c='r3b.L1')
+save('L1')
+
+print "\n***Halo family H1***"
+run(s='L11', e='r3b', c='r3b.H1')
+save('H1')
+
+print "\n***Axial family A1***"
+run(s='L11', e='r3b', c='r3b.A1') 
+save('A1')
+
+print "\n***Vertical family V1***"
+run(r1(13),e='r3b',c='r3b.V1')
+save('V1')
+
+print "\n***Clean the directory***"
+clean()
